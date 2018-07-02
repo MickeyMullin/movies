@@ -1,0 +1,11 @@
+{
+  "files.exclude": {
+    "**/.nuxt": true,
+    "**/.vscode": true,
+    ".dockerignore": true,
+    ".editorconfig": true,
+    ".eslintrc.js": true,
+    ".gitignore": true,
+    "package-lock.json": true
+  }
+}
