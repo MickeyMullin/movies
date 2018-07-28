@@ -8,7 +8,8 @@
         Movie Library
       </h2>
 
-      <!-- TODO: collapse/expand all -->
+      <b-btn variant="outline-secondary" @click="toggleAll(!expandAll)" :pressed="expandAll">{{ expandAll ? 'Collapse' : 'Expand' }} all</b-btn>
+
       <m-dir v-for="(movies, key) in directories" :key="key"
         :dir="key"
         :movies="movies"
@@ -21,6 +22,7 @@
 
 import mDir from '~/components/directory.vue'
 import movieData from '~/static/movies.json'
+import { mapState, mapMutations } from 'vuex'
 
 export default {
   components: {
@@ -34,6 +36,10 @@ export default {
     }
   },
 
+  computed: {
+    ...mapState(['expandAll']),
+  },
+
   methods: {
     async getMovies() {
       this.movies = movieData
@@ -43,6 +49,9 @@ export default {
         this.directories[movie.dir].push(movie)
       })
     },
+    ...mapMutations([
+      'toggleAll',
+    ]),
   },
 
   created() {

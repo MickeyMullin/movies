@@ -1,6 +1,6 @@
 <template>
   <div class="directory">
-    <b-btn variant="outline-primary" @click="showMovies = !showMovies" :pressed="showMovies">{{ dir }}</b-btn>
+    <b-btn variant="outline-primary" @click="toggleShow()" :pressed="showMovies">{{ dir }}</b-btn>
 
     <b-collapse :id="dir" v-model="showMovies">
       <b-card no-body>
@@ -37,6 +37,7 @@
 <script>
 
 import mMovie from '~/components/movie.vue'
+import { mapState, mapMutations } from 'vuex'
 
 export default {
   components: {
@@ -58,6 +59,26 @@ export default {
     accordionId() { return this.dir + '_accordion' },
     dirCardsId() { return this.dir + '_cards' },
     dirListId() { return this.dir + '_list' },
+
+    ...mapState(['expandAll']),
+  },
+
+  methods: {
+    toggleShow() {
+      this.showMovies = !this.showMovies
+      this.toggleAll(null)
+    },
+    ...mapMutations([
+      'toggleAll',
+    ])
+  },
+
+  watch: {
+    expandAll(toggle) {
+      if (typeof toggle === 'boolean') {
+        this.showMovies = toggle
+      }
+    },
   },
 }
 
