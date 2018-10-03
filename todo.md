@@ -1,4 +1,4 @@
-* toggle all
+## To Do
 * poster
 * synopsis
 * rating
@@ -9,3 +9,6 @@
 * our own rating
 * missing (want to see; not in library)
 * checkmarks (by individual) for "watched" or "want to see"
+
+## Done
+* toggle all
