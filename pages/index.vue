@@ -93,7 +93,7 @@ export default {
         this.modifieds[yearmonth].push(movie)
       })
       let modMonths = Object.keys(this.modifieds)
-      modMonths.sort()
+      modMonths.sort().reverse()
       // modMonths.forEach(ym => {
       //   const year = ym.substring(0, 4)
       //   const month = ym.substring(5)
