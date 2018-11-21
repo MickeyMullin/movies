@@ -1,0 +1,7346 @@
+[
+  {
+    "dir": "FG",
+    "filename": "Finding Nemo",
+    "badName": "Finding Nemo.720",
+    "fixName": "Finding Nemo",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "FG",
+    "filename": "Get Hard (2015)",
+    "badName": "Get Hard (2015) 720p",
+    "fixName": "Get Hard (2015)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "FG",
+    "filename": "Groundhog Day (1993)",
+    "badName": "Groundhog Day (1993) 720p",
+    "fixName": "Groundhog Day (1993)",
+    "extension": "srt",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "FG",
+    "filename": "Groundhog Day (1993)",
+    "badName": "Groundhog Day (1993) 720p",
+    "fixName": "Groundhog Day (1993)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "FG",
+    "filename": "Guardians of the Galaxy (2014)",
+    "badName": "Guardians of the Galaxy (2014) 1080p",
+    "fixName": "Guardians of the Galaxy (2014)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "FG",
+    "filename": "The Final Girls (2015)",
+    "badName": "The Final Girls (2015) 720p",
+    "fixName": "The Final Girls (2015)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "FG",
+    "filename": "The Final Girls (2015)",
+    "badName": "The Final Girls (2015) 720p",
+    "fixName": "The Final Girls (2015)",
+    "extension": "srt",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "JK",
+    "filename": "John Wick (2014)",
+    "badName": "John Wick (2014) 720p",
+    "fixName": "John Wick (2014)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "JK",
+    "filename": "John Wick Chapter 2 (2017)",
+    "badName": "John Wick Chapter 2 (2017) 1080p",
+    "fixName": "John Wick Chapter 2 (2017)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "JK",
+    "filename": "John Wick Chapter 2 (2017)",
+    "badName": "John Wick Chapter 2 (2017) 1080p",
+    "fixName": "John Wick Chapter 2 (2017)",
+    "extension": "sub",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "JK",
+    "filename": "John Wick Chapter 2 (2017)",
+    "badName": "John Wick Chapter 2 (2017) 1080p",
+    "fixName": "John Wick Chapter 2 (2017)",
+    "extension": "idx",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "JK",
+    "filename": "Joy (2015)",
+    "badName": "Joy (2015) 1080p",
+    "fixName": "Joy (2015)",
+    "extension": "srt",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "JK",
+    "filename": "Joy (2015)",
+    "badName": "Joy (2015) 1080p",
+    "fixName": "Joy (2015)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "JK",
+    "filename": "Jumanji Welcome to the Jungle (2017)",
+    "badName": "Jumanji Welcome to the Jungle (2017) 1080p",
+    "fixName": "Jumanji Welcome to the Jungle (2017)",
+    "extension": "srt",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "JK",
+    "filename": "Jumanji Welcome to the Jungle (2017)",
+    "badName": "Jumanji Welcome to the Jungle (2017) 1080p",
+    "fixName": "Jumanji Welcome to the Jungle (2017)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "JK",
+    "filename": "Jupiter Ascending (2015)",
+    "badName": "Jupiter Ascending (2015) 720p",
+    "fixName": "Jupiter Ascending (2015)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "JK",
+    "filename": "Justice League (2017)",
+    "badName": "Justice League (2017) 1080p",
+    "fixName": "Justice League (2017)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "JK",
+    "filename": "Justice League (2017)",
+    "badName": "Justice League (2017) 1080p",
+    "fixName": "Justice League (2017)",
+    "extension": "srt",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "JK",
+    "filename": "Kill Bill Vol 1 2003 BluRay",
+    "badName": "Kill Bill Vol 1 2003 BluRay 1080p",
+    "fixName": "Kill Bill Vol 1 2003 BluRay",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "JK",
+    "filename": "Kingsman - The Secret Service (2014)",
+    "badName": "Kingsman - The Secret Service (2014) 720p",
+    "fixName": "Kingsman - The Secret Service (2014)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "JK",
+    "filename": "Kingsman 2 - The Golden Circle (2017)",
+    "badName": "Kingsman 2 - The Golden Circle (2017) 1080p",
+    "fixName": "Kingsman 2 - The Golden Circle (2017)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "JK",
+    "filename": "Kingsman 2 - The Golden Circle (2017)",
+    "badName": "Kingsman 2 - The Golden Circle (2017) 1080p",
+    "fixName": "Kingsman 2 - The Golden Circle (2017)",
+    "extension": "srt",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "JK",
+    "filename": "The Karate Kid (1984)",
+    "badName": "The Karate Kid (1984) 720p",
+    "fixName": "The Karate Kid (1984)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "L",
+    "filename": "Law Abiding Citizen (2009)",
+    "badName": "Law Abiding Citizen (2009) 1080p",
+    "fixName": "Law Abiding Citizen (2009)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "L",
+    "filename": "Law Abiding Citizen (2009)",
+    "badName": "Law Abiding Citizen (2009) 1080p",
+    "fixName": "Law Abiding Citizen (2009)",
+    "extension": "srt",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "L",
+    "filename": "Lemony Snickets A Series of Unfortunate Events (2004)",
+    "badName": "Lemony Snickets A Series of Unfortunate Events (2004) 720p",
+    "fixName": "Lemony Snickets A Series of Unfortunate Events (2004)",
+    "extension": "mkv",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "L",
+    "filename": "Like Father Like Son (2013)",
+    "badName": "Like Father Like Son (2013) 720p",
+    "fixName": "Like Father Like Son (2013)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "L",
+    "filename": "Like Father Like Son (2013)",
+    "badName": "Like Father Like Son (2013) 720p",
+    "fixName": "Like Father Like Son (2013)",
+    "extension": "srt",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "L",
+    "filename": "Lovely Molly",
+    "badName": "Lovely Molly.720",
+    "fixName": "Lovely Molly",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "L",
+    "filename": "Lucy (2014)",
+    "badName": "Lucy (2014) 1080p",
+    "fixName": "Lucy (2014)",
+    "extension": "srt",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "L",
+    "filename": "Lucy (2014)",
+    "badName": "Lucy (2014) 1080p",
+    "fixName": "Lucy (2014)",
+    "extension": "mkv",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "L",
+    "filename": "The Lobster (2015)",
+    "badName": "The Lobster (2015) 720p",
+    "fixName": "The Lobster (2015)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "M",
+    "filename": "Max Payne",
+    "badName": "Max Payne.720",
+    "fixName": "Max Payne",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "M",
+    "filename": "Minions (2015)",
+    "badName": "Minions (2015) 1080p",
+    "fixName": "Minions (2015)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "M",
+    "filename": "Minority Report (2002)",
+    "badName": "Minority Report (2002) 720p",
+    "fixName": "Minority Report (2002)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Non Stop (2014)",
+    "badName": "Non Stop (2014) 720p",
+    "fixName": "Non Stop (2014)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Notting Hill (1999)",
+    "badName": "Notting Hill (1999) 1080p",
+    "fixName": "Notting Hill (1999)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Notting Hill (1999)",
+    "badName": "Notting Hill (1999) 1080p",
+    "fixName": "Notting Hill (1999)",
+    "extension": "srt",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Paper Towns (2015)",
+    "badName": "Paper Towns (2015) 720p",
+    "fixName": "Paper Towns (2015)",
+    "extension": "mkv",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "NOP",
+    "filename": "The Nice Guys (2016)",
+    "badName": "The Nice Guys (2016) 720p",
+    "fixName": "The Nice Guys (2016)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "NOP",
+    "filename": "The Other Guys (2010)",
+    "badName": "The Other Guys (2010) 720p",
+    "fixName": "The Other Guys (2010)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "NOP",
+    "filename": "The Others (2001)",
+    "badName": "The Others (2001) 720p",
+    "fixName": "The Others (2001)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "NOP",
+    "filename": "The Purge (2013)",
+    "badName": "The Purge (2013) 1080p",
+    "fixName": "The Purge (2013)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "NOP",
+    "filename": "The Purge (2013)",
+    "badName": "The Purge (2013) 1080p",
+    "fixName": "The Purge (2013)",
+    "extension": "srt",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "QR",
+    "filename": "Ransom",
+    "badName": "Ransom.720",
+    "fixName": "Ransom",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "QR",
+    "filename": "Red Sparrow (2018)",
+    "badName": "Red Sparrow (2018) 1080p",
+    "fixName": "Red Sparrow (2018)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "QR",
+    "filename": "Red Sparrow (2018)",
+    "badName": "Red Sparrow (2018) 1080p",
+    "fixName": "Red Sparrow (2018)",
+    "extension": "srt",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "QR",
+    "filename": "Reservior Dogs",
+    "badName": "Reservior Dogs.720",
+    "fixName": "Reservior Dogs",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "QR",
+    "filename": "The Revenant (2015)",
+    "badName": "The Revenant (2015) 720p",
+    "fixName": "The Revenant (2015)",
+    "extension": "srt",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "QR",
+    "filename": "The Revenant (2015)",
+    "badName": "The Revenant (2015) 720p",
+    "fixName": "The Revenant (2015)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "S",
+    "filename": "Secretary (2002)",
+    "badName": "Secretary (2002) 720p",
+    "fixName": "Secretary (2002)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "S",
+    "filename": "Slapshot",
+    "badName": "Slapshot.720",
+    "fixName": "Slapshot",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "S",
+    "filename": "Sleeping with Other People (2015)",
+    "badName": "Sleeping with Other People (2015) 720p",
+    "fixName": "Sleeping with Other People (2015)",
+    "extension": "srt",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "S",
+    "filename": "Sleeping with Other People (2015)",
+    "badName": "Sleeping with Other People (2015) 720p",
+    "fixName": "Sleeping with Other People (2015)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "S",
+    "filename": "The Shape of Water (2017)",
+    "badName": "The Shape of Water (2017) 1080p",
+    "fixName": "The Shape of Water (2017)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "S",
+    "filename": "The Shape of Water (2017)",
+    "badName": "The Shape of Water (2017) 1080p",
+    "fixName": "The Shape of Water (2017)",
+    "extension": "srt",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "S",
+    "filename": "The Simpsons Movie",
+    "badName": "The Simpsons Movie.720",
+    "fixName": "The Simpsons Movie",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "T",
+    "filename": "Three Billboards Outside Ebbing, Missouri (2017)",
+    "badName": "Three Billboards Outside Ebbing, Missouri (2017) 1080p",
+    "fixName": "Three Billboards Outside Ebbing, Missouri (2017)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "T",
+    "filename": "Three Billboards Outside Ebbing, Missouri (2017)",
+    "badName": "Three Billboards Outside Ebbing, Missouri (2017) 1080p",
+    "fixName": "Three Billboards Outside Ebbing, Missouri (2017)",
+    "extension": "srt",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "T",
+    "filename": "Tommy Boy-",
+    "badName": "Tommy Boy-720",
+    "fixName": "Tommy Boy-",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "T",
+    "filename": "Tomorrowland (2015)",
+    "badName": "Tomorrowland (2015) 720p",
+    "fixName": "Tomorrowland (2015)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "T",
+    "filename": "Touched with Fire (2015)",
+    "badName": "Touched with Fire (2015) 720p",
+    "fixName": "Touched with Fire (2015)",
+    "extension": "mkv",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "T",
+    "filename": "Trainwreck (2015)",
+    "badName": "Trainwreck (2015) 720p",
+    "fixName": "Trainwreck (2015)",
+    "extension": "srt",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "T",
+    "filename": "Trainwreck (2015)",
+    "badName": "Trainwreck (2015) 720p",
+    "fixName": "Trainwreck (2015)",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "T",
+    "filename": "Tropic Thunder",
+    "badName": "Tropic Thunder.720",
+    "fixName": "Tropic Thunder",
+    "extension": "mp4",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "XYZ",
+    "filename": "Zootopia (2016)",
+    "badName": "Zootopia (2016) 720p",
+    "fixName": "Zootopia (2016)",
+    "extension": "mkv",
+    "reason": "fhgt"
+  },
+  {
+    "dir": "#",
+    "filename": "12 Angry Men (1957)",
+    "badName": "",
+    "fixName": "12 Angry Men (1957)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "#",
+    "filename": "127 Hours (2010)",
+    "badName": "",
+    "fixName": "127 Hours (2010)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "#",
+    "filename": "13 (2010)",
+    "badName": "",
+    "fixName": "13 (2010)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "#",
+    "filename": "2001 A Space Odyssey (1968)",
+    "badName": "",
+    "fixName": "2001 A Space Odyssey (1968)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "#",
+    "filename": "2012 (2009)",
+    "badName": "",
+    "fixName": "2012 (2009)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "#",
+    "filename": "21 Grams (2003)",
+    "badName": "",
+    "fixName": "21 Grams (2003)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "#",
+    "filename": "21 Jump Street (2012)",
+    "badName": "",
+    "fixName": "21 Jump Street (2012)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "#",
+    "filename": "30 Days of Night Dark Days (2010)",
+    "badName": "",
+    "fixName": "30 Days of Night Dark Days (2010)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "#",
+    "filename": "30 Minutes or Less (2011)",
+    "badName": "",
+    "fixName": "30 Minutes or Less (2011)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "#",
+    "filename": "300 (2006)",
+    "badName": "",
+    "fixName": "300 (2006)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "#",
+    "filename": "48 Hrs (1982)",
+    "badName": "",
+    "fixName": "48 Hrs (1982)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "#",
+    "filename": "8MM (1999)",
+    "badName": "",
+    "fixName": "8MM (1999)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "#",
+    "filename": "The 40 Year Old Virgin (2005)",
+    "badName": "",
+    "fixName": "The 40 Year Old Virgin (2005)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "/mnt/g/videos/movies",
+    "filename": "movie-files",
+    "badName": "",
+    "fixName": "movie-files",
+    "extension": "json",
+    "reason": "good"
+  },
+  {
+    "dir": "/mnt/g/videos/movies",
+    "filename": "problem-movies",
+    "badName": "",
+    "fixName": "problem-movies",
+    "extension": "log",
+    "reason": "good"
+  },
+  {
+    "dir": "/mnt/g/videos/movies",
+    "filename": "_watchlist",
+    "badName": "",
+    "fixName": "_watchlist",
+    "extension": "txt",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Abraham Lincoln - Vampire Hunter",
+    "badName": "",
+    "fixName": "Abraham Lincoln - Vampire Hunter",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Across the Universe (2007)",
+    "badName": "",
+    "fixName": "Across the Universe (2007)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Act of Valor (2012)",
+    "badName": "",
+    "fixName": "Act of Valor (2012)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Adaptation",
+    "badName": "",
+    "fixName": "Adaptation",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Age of Heroes (2011)",
+    "badName": "",
+    "fixName": "Age of Heroes (2011)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Agora",
+    "badName": "",
+    "fixName": "Agora",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Air America (1990)",
+    "badName": "",
+    "fixName": "Air America (1990)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Airplane 2 (1982)",
+    "badName": "",
+    "fixName": "Airplane 2 (1982)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Airplane! (1980)",
+    "badName": "",
+    "fixName": "Airplane! (1980)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Alice in Wonderland (2010)",
+    "badName": "",
+    "fixName": "Alice in Wonderland (2010)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Alien",
+    "badName": "",
+    "fixName": "Alien",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "All Good Things",
+    "badName": "",
+    "fixName": "All Good Things",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "All the President's Men",
+    "badName": "",
+    "fixName": "All the President's Men",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "American Beauty",
+    "badName": "",
+    "fixName": "American Beauty",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "American Gangster",
+    "badName": "",
+    "fixName": "American Gangster",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "American Graffiti",
+    "badName": "",
+    "fixName": "American Graffiti",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "American History X",
+    "badName": "",
+    "fixName": "American History X",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "American Psycho",
+    "badName": "",
+    "fixName": "American Psycho",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "American Reunion",
+    "badName": "",
+    "fixName": "American Reunion",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "American Sniper (2014)",
+    "badName": "",
+    "fixName": "American Sniper (2014)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Anchorman The Legend of Ron Burgundy",
+    "badName": "",
+    "fixName": "Anchorman The Legend of Ron Burgundy",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Angels & Demons (2006)",
+    "badName": "",
+    "fixName": "Angels & Demons (2006)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Animal House (1978)",
+    "badName": "",
+    "fixName": "Animal House (1978)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Animal Kingdom",
+    "badName": "",
+    "fixName": "Animal Kingdom",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Annie Hall",
+    "badName": "",
+    "fixName": "Annie Hall",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Annihilation (2018)",
+    "badName": "",
+    "fixName": "Annihilation (2018)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Annihilation (2018)",
+    "badName": "",
+    "fixName": "Annihilation (2018)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Anonymous (2011)",
+    "badName": "",
+    "fixName": "Anonymous (2011)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Another Earth",
+    "badName": "",
+    "fixName": "Another Earth",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Ant Man (2015)",
+    "badName": "",
+    "fixName": "Ant Man (2015)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Ant Man (2015)",
+    "badName": "",
+    "fixName": "Ant Man (2015)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Apocalypse Now",
+    "badName": "",
+    "fixName": "Apocalypse Now",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Arbitage (2012)",
+    "badName": "",
+    "fixName": "Arbitage (2012)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Arizona Dream",
+    "badName": "",
+    "fixName": "Arizona Dream",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Arlington Road",
+    "badName": "",
+    "fixName": "Arlington Road",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Artificial Intelligence AI",
+    "badName": "",
+    "fixName": "Artificial Intelligence AI",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Atlas Shrugged (2012)",
+    "badName": "",
+    "fixName": "Atlas Shrugged (2012)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Attack the Block",
+    "badName": "",
+    "fixName": "Attack the Block",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Austin Powers 1 - International Man of Mystery (1997)",
+    "badName": "",
+    "fixName": "Austin Powers 1 - International Man of Mystery (1997)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Austin Powers 2 - The Spy Who Shagged Me (1999)",
+    "badName": "",
+    "fixName": "Austin Powers 2 - The Spy Who Shagged Me (1999)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Austin Powers 3 - Goldmember (2002)",
+    "badName": "",
+    "fixName": "Austin Powers 3 - Goldmember (2002)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Avatar",
+    "badName": "",
+    "fixName": "Avatar",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Avril Et Le Monde Truqué (2015)",
+    "badName": "",
+    "fixName": "Avril Et Le Monde Truqué (2015)",
+    "extension": "mkv",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Avril Et Le Monde Truqué (2015)",
+    "badName": "",
+    "fixName": "Avril Et Le Monde Truqué (2015)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Awakenings",
+    "badName": "",
+    "fixName": "Awakenings",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "Away We Go",
+    "badName": "",
+    "fixName": "Away We Go",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "The A-Team",
+    "badName": "",
+    "fixName": "The A-Team",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "The Adjustment Bureau",
+    "badName": "",
+    "fixName": "The Adjustment Bureau",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "The Adventures of Mark Twain",
+    "badName": "",
+    "fixName": "The Adventures of Mark Twain",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "The Adventures of Tintin",
+    "badName": "",
+    "fixName": "The Adventures of Tintin",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "The African Queen",
+    "badName": "",
+    "fixName": "The African Queen",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "The American",
+    "badName": "",
+    "fixName": "The American",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "The Artist (2011)",
+    "badName": "",
+    "fixName": "The Artist (2011)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "The Artist (2011)",
+    "badName": "",
+    "fixName": "The Artist (2011)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "The Avengers (2012)",
+    "badName": "",
+    "fixName": "The Avengers (2012)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "A",
+    "filename": "The Aviator",
+    "badName": "",
+    "fixName": "The Aviator",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "A Beautiful Mind",
+    "badName": "",
+    "fixName": "A Beautiful Mind",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Back to the Future Part I",
+    "badName": "",
+    "fixName": "Back to the Future Part I",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Back to the Future Part II",
+    "badName": "",
+    "fixName": "Back to the Future Part II",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Back to the Future Part III",
+    "badName": "",
+    "fixName": "Back to the Future Part III",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Badlands",
+    "badName": "",
+    "fixName": "Badlands",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Barry Lyndon",
+    "badName": "",
+    "fixName": "Barry Lyndon",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Barton Fink",
+    "badName": "",
+    "fixName": "Barton Fink",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Batman 1 - Batman Begins (2005)",
+    "badName": "",
+    "fixName": "Batman 1 - Batman Begins (2005)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Batman 2 - The Dark Knight (2008)",
+    "badName": "",
+    "fixName": "Batman 2 - The Dark Knight (2008)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Batman 2 - The Dark Knight (2008) - m4v",
+    "badName": "",
+    "fixName": "Batman 2 - The Dark Knight (2008) - m4v",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Batman 2 - The Dark Knight (2008) - mp4",
+    "badName": "",
+    "fixName": "Batman 2 - The Dark Knight (2008) - mp4",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Batman 3 - The Dark Knight Rises (2012)",
+    "badName": "",
+    "fixName": "Batman 3 - The Dark Knight Rises (2012)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Batman Under the Red Hood",
+    "badName": "",
+    "fixName": "Batman Under the Red Hood",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Batman v Superman Dawn of Justice (2016)",
+    "badName": "",
+    "fixName": "Batman v Superman Dawn of Justice (2016)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Battle Los Angeles",
+    "badName": "",
+    "fixName": "Battle Los Angeles",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Battleship",
+    "badName": "",
+    "fixName": "Battleship",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Beetle Juice",
+    "badName": "",
+    "fixName": "Beetle Juice",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Being There",
+    "badName": "",
+    "fixName": "Being There",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Ben-Hur",
+    "badName": "",
+    "fixName": "Ben-Hur",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Beverly Hills Cop 1 (1984)",
+    "badName": "",
+    "fixName": "Beverly Hills Cop 1 (1984)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Beverly Hills Cop 2 (1987)",
+    "badName": "",
+    "fixName": "Beverly Hills Cop 2 (1987)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Beverly Hills Cop 3 (1994)",
+    "badName": "",
+    "fixName": "Beverly Hills Cop 3 (1994)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Big Fish",
+    "badName": "",
+    "fixName": "Big Fish",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Big Hero 6 (2014)",
+    "badName": "",
+    "fixName": "Big Hero 6 (2014)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Big Wednesday (1978)",
+    "badName": "",
+    "fixName": "Big Wednesday (1978)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Bill and Ted Excellent Adventure (1989)",
+    "badName": "",
+    "fixName": "Bill and Ted Excellent Adventure (1989)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Birdman (2014)",
+    "badName": "",
+    "fixName": "Birdman (2014)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Black Hawk Down",
+    "badName": "",
+    "fixName": "Black Hawk Down",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Black Swan",
+    "badName": "",
+    "fixName": "Black Swan",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Blade Runner - Final Cut (1982)",
+    "badName": "",
+    "fixName": "Blade Runner - Final Cut (1982)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Blade Runner 2049 (2017)",
+    "badName": "",
+    "fixName": "Blade Runner 2049 (2017)",
+    "extension": "mkv",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Blazing Saddles",
+    "badName": "",
+    "fixName": "Blazing Saddles",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Blockers (2018)",
+    "badName": "",
+    "fixName": "Blockers (2018)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Blockers (2018)",
+    "badName": "",
+    "fixName": "Blockers (2018)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Blow",
+    "badName": "",
+    "fixName": "Blow",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Blue Valentine",
+    "badName": "",
+    "fixName": "Blue Valentine",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Blue Velvet",
+    "badName": "",
+    "fixName": "Blue Velvet",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Boogie Nights (1997)",
+    "badName": "",
+    "fixName": "Boogie Nights (1997)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Borat",
+    "badName": "",
+    "fixName": "Borat",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Bound (1996)",
+    "badName": "",
+    "fixName": "Bound (1996)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Bound (1996)",
+    "badName": "",
+    "fixName": "Bound (1996)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Boy A (2007)",
+    "badName": "",
+    "fixName": "Boy A (2007)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Boyhood (2014)",
+    "badName": "",
+    "fixName": "Boyhood (2014)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Brazil (1985)",
+    "badName": "",
+    "fixName": "Brazil (1985)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Bronson",
+    "badName": "",
+    "fixName": "Bronson",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Brotherhood of the Wolf",
+    "badName": "",
+    "fixName": "Brotherhood of the Wolf",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Bruno",
+    "badName": "",
+    "fixName": "Bruno",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Bullitt",
+    "badName": "",
+    "fixName": "Bullitt",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Bulworth (1998)",
+    "badName": "",
+    "fixName": "Bulworth (1998)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Burke and Hare",
+    "badName": "",
+    "fixName": "Burke and Hare",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "Burn After Reading",
+    "badName": "",
+    "fixName": "Burn After Reading",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "The Basketball Diaries (1995)",
+    "badName": "",
+    "fixName": "The Basketball Diaries (1995)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "The Beaver",
+    "badName": "",
+    "fixName": "The Beaver",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "The Big Lebowski",
+    "badName": "",
+    "fixName": "The Big Lebowski",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "The Big Year (2011)",
+    "badName": "",
+    "fixName": "The Big Year (2011)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "The Blues Brothers Ext",
+    "badName": "",
+    "fixName": "The Blues Brothers Ext",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "The Bounty (1984)",
+    "badName": "",
+    "fixName": "The Bounty (1984)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "The Bourne Identity",
+    "badName": "",
+    "fixName": "The Bourne Identity",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "The Bourne Supremacy",
+    "badName": "",
+    "fixName": "The Bourne Supremacy",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "The Bourne Ultimatum",
+    "badName": "",
+    "fixName": "The Bourne Ultimatum",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "The Box",
+    "badName": "",
+    "fixName": "The Box",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "The Breakfast Club",
+    "badName": "",
+    "fixName": "The Breakfast Club",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "The Breakfast Club (1985)",
+    "badName": "",
+    "fixName": "The Breakfast Club (1985)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "B",
+    "filename": "The Butterfly Effect",
+    "badName": "",
+    "fixName": "The Butterfly Effect",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Caddyshack (1980)",
+    "badName": "",
+    "fixName": "Caddyshack (1980)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Candy",
+    "badName": "",
+    "fixName": "Candy",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Cape Fear",
+    "badName": "",
+    "fixName": "Cape Fear",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Captain America The First Avenger",
+    "badName": "",
+    "fixName": "Captain America The First Avenger",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Casablanca",
+    "badName": "",
+    "fixName": "Casablanca",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Casanova",
+    "badName": "",
+    "fixName": "Casanova",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Casino",
+    "badName": "",
+    "fixName": "Casino",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Cast Away",
+    "badName": "",
+    "fixName": "Cast Away",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Cat People (1982)",
+    "badName": "",
+    "fixName": "Cat People (1982)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Catch .44 (2011)",
+    "badName": "",
+    "fixName": "Catch .44 (2011)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Catch Me If You Can",
+    "badName": "",
+    "fixName": "Catch Me If You Can",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Chaplin",
+    "badName": "",
+    "fixName": "Chaplin",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Chariots of Fire (1981)",
+    "badName": "",
+    "fixName": "Chariots of Fire (1981)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Charlie Wilson's War",
+    "badName": "",
+    "fixName": "Charlie Wilson's War",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Cheech and Chongs Up In  Smoke (1978)",
+    "badName": "",
+    "fixName": "Cheech and Chongs Up In  Smoke (1978)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Chicken Run (2000)",
+    "badName": "",
+    "fixName": "Chicken Run (2000)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Christine (1983)",
+    "badName": "",
+    "fixName": "Christine (1983)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Cinderella Man",
+    "badName": "",
+    "fixName": "Cinderella Man",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Cinema Paradiso (1988)",
+    "badName": "",
+    "fixName": "Cinema Paradiso (1988)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Citizen Kane",
+    "badName": "",
+    "fixName": "Citizen Kane",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "City Lights",
+    "badName": "",
+    "fixName": "City Lights",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Close Encounters of the Third Kind",
+    "badName": "",
+    "fixName": "Close Encounters of the Third Kind",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Cloudy with a Chance of Meatballs",
+    "badName": "",
+    "fixName": "Cloudy with a Chance of Meatballs",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Cloverfield",
+    "badName": "",
+    "fixName": "Cloverfield",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Cobra",
+    "badName": "",
+    "fixName": "Cobra",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Cocoon",
+    "badName": "",
+    "fixName": "Cocoon",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Collateral",
+    "badName": "",
+    "fixName": "Collateral",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Coming to America (1988)",
+    "badName": "",
+    "fixName": "Coming to America (1988)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Commando",
+    "badName": "",
+    "fixName": "Commando",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Conan the Barbarian",
+    "badName": "",
+    "fixName": "Conan the Barbarian",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Confessions of a Dangerous Mind",
+    "badName": "",
+    "fixName": "Confessions of a Dangerous Mind",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Constantine",
+    "badName": "",
+    "fixName": "Constantine",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Contact",
+    "badName": "",
+    "fixName": "Contact",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Contagion (2011)",
+    "badName": "",
+    "fixName": "Contagion (2011)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Contraband (2012)",
+    "badName": "",
+    "fixName": "Contraband (2012)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Cool Hand Luke",
+    "badName": "",
+    "fixName": "Cool Hand Luke",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Cowboys & Aliens",
+    "badName": "",
+    "fixName": "Cowboys & Aliens",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Crank",
+    "badName": "",
+    "fixName": "Crank",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Crazy, Stupid, Love (2011)",
+    "badName": "",
+    "fixName": "Crazy, Stupid, Love (2011)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Crouching Tiger, Hidden Dragon (2000)",
+    "badName": "",
+    "fixName": "Crouching Tiger, Hidden Dragon (2000)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "Cypher",
+    "badName": "",
+    "fixName": "Cypher",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "The Campaign (2012)",
+    "badName": "",
+    "fixName": "The Campaign (2012)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "The Cider House Rules",
+    "badName": "",
+    "fixName": "The Cider House Rules",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "The Color Purple (1985)",
+    "badName": "",
+    "fixName": "The Color Purple (1985)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "The Count of Monte Cristo (2002)",
+    "badName": "",
+    "fixName": "The Count of Monte Cristo (2002)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "The Curious Case of Benjamin Button",
+    "badName": "",
+    "fixName": "The Curious Case of Benjamin Button",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "C",
+    "filename": "The Curse of the Jade Scorpion",
+    "badName": "",
+    "fixName": "The Curse of the Jade Scorpion",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "A Dangerous Method",
+    "badName": "",
+    "fixName": "A Dangerous Method",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Dallas Buyers Club (2013)",
+    "badName": "",
+    "fixName": "Dallas Buyers Club (2013)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Dallas Buyers Club (2013)",
+    "badName": "",
+    "fixName": "Dallas Buyers Club (2013)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Dark City",
+    "badName": "",
+    "fixName": "Dark City",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Darkman",
+    "badName": "",
+    "fixName": "Darkman",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Dazed and Confused",
+    "badName": "",
+    "fixName": "Dazed and Confused",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Dead Poets Society",
+    "badName": "",
+    "fixName": "Dead Poets Society",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Deadpool (2016)",
+    "badName": "",
+    "fixName": "Deadpool (2016)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Death at a Funeral",
+    "badName": "",
+    "fixName": "Death at a Funeral",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Death Wish (1974)",
+    "badName": "",
+    "fixName": "Death Wish (1974)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Death Wish (1974)",
+    "badName": "",
+    "fixName": "Death Wish (1974)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Definitely Maybe (2008)",
+    "badName": "",
+    "fixName": "Definitely Maybe (2008)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Definitely Maybe (2008)",
+    "badName": "",
+    "fixName": "Definitely Maybe (2008)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Demolition Man",
+    "badName": "",
+    "fixName": "Demolition Man",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Despicable Me",
+    "badName": "",
+    "fixName": "Despicable Me",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Die Hard 1",
+    "badName": "",
+    "fixName": "Die Hard 1",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Die Hard 2",
+    "badName": "",
+    "fixName": "Die Hard 2",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Die Hard 3 - With a Vengeance",
+    "badName": "",
+    "fixName": "Die Hard 3 - With a Vengeance",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Die Hard 4 - Live Free or Die Hard (2007)",
+    "badName": "",
+    "fixName": "Die Hard 4 - Live Free or Die Hard (2007)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Dirty Dancing (1987)",
+    "badName": "",
+    "fixName": "Dirty Dancing (1987)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Dirty Harry 1 (1971)",
+    "badName": "",
+    "fixName": "Dirty Harry 1 (1971)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Dirty Harry 2 - Magnum Force (1973)",
+    "badName": "",
+    "fixName": "Dirty Harry 2 - Magnum Force (1973)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Dirty Harry 3 - The Enforcer (1976)",
+    "badName": "",
+    "fixName": "Dirty Harry 3 - The Enforcer (1976)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Dirty Harry 4 - Sudden Impact (1983)",
+    "badName": "",
+    "fixName": "Dirty Harry 4 - Sudden Impact (1983)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Dirty Harry 5 - The Dead Pool (1988)",
+    "badName": "",
+    "fixName": "Dirty Harry 5 - The Dead Pool (1988)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Disobedience (2017)",
+    "badName": "",
+    "fixName": "Disobedience (2017)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Disobedience (2017)",
+    "badName": "",
+    "fixName": "Disobedience (2017)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "District 9",
+    "badName": "",
+    "fixName": "District 9",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Disturbia",
+    "badName": "",
+    "fixName": "Disturbia",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Dog Day Afternoon",
+    "badName": "",
+    "fixName": "Dog Day Afternoon",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Doghouse",
+    "badName": "",
+    "fixName": "Doghouse",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Dogma",
+    "badName": "",
+    "fixName": "Dogma",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Dogma (1999)",
+    "badName": "",
+    "fixName": "Dogma (1999)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Dogma (1999)",
+    "badName": "",
+    "fixName": "Dogma (1999)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Donnie Darko",
+    "badName": "",
+    "fixName": "Donnie Darko",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Downsizing (2017)",
+    "badName": "",
+    "fixName": "Downsizing (2017)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Downsizing (2017)",
+    "badName": "",
+    "fixName": "Downsizing (2017)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Dr. Strangelove",
+    "badName": "",
+    "fixName": "Dr. Strangelove",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Dragonheart",
+    "badName": "",
+    "fixName": "Dragonheart",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Drive (2011)",
+    "badName": "",
+    "fixName": "Drive (2011)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Driving Miss Daisy (1989)",
+    "badName": "",
+    "fixName": "Driving Miss Daisy (1989)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Due Date",
+    "badName": "",
+    "fixName": "Due Date",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Dumb and Dumber",
+    "badName": "",
+    "fixName": "Dumb and Dumber",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Dune (1984)",
+    "badName": "",
+    "fixName": "Dune (1984)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Eastern Promises",
+    "badName": "",
+    "fixName": "Eastern Promises",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Easy A",
+    "badName": "",
+    "fixName": "Easy A",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Easy Money (1983)",
+    "badName": "",
+    "fixName": "Easy Money (1983)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Eddie Izzard - Dress to Kill",
+    "badName": "",
+    "fixName": "Eddie Izzard - Dress to Kill",
+    "extension": "jpg",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Eddie Izzard - Dress to Kill (1998)",
+    "badName": "",
+    "fixName": "Eddie Izzard - Dress to Kill (1998)",
+    "extension": "mkv",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Eddie Izzard - Dress to Kill (1998) - Extra America  Photo Documentary",
+    "badName": "",
+    "fixName": "Eddie Izzard - Dress to Kill (1998) - Extra America  Photo Documentary",
+    "extension": "mkv",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Eddie Izzard - Dress to Kill (1998) - Extra Dress to Circle Paris Raw Cut",
+    "badName": "",
+    "fixName": "Eddie Izzard - Dress to Kill (1998) - Extra Dress to Circle Paris Raw Cut",
+    "extension": "mkv",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Edward Scissorhands",
+    "badName": "",
+    "fixName": "Edward Scissorhands",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Empire of the Sun",
+    "badName": "",
+    "fixName": "Empire of the Sun",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "End of Watch (2012)",
+    "badName": "",
+    "fixName": "End of Watch (2012)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Enter the Void",
+    "badName": "",
+    "fixName": "Enter the Void",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Equilibrium",
+    "badName": "",
+    "fixName": "Equilibrium",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Escape from Alcatraz (1979)",
+    "badName": "",
+    "fixName": "Escape from Alcatraz (1979)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Escape from New York",
+    "badName": "",
+    "fixName": "Escape from New York",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "Eurotrip",
+    "badName": "",
+    "fixName": "Eurotrip",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "The Darjeeling Limited",
+    "badName": "",
+    "fixName": "The Darjeeling Limited",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "The Dark Crystal",
+    "badName": "",
+    "fixName": "The Dark Crystal",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "The Darkest Hour",
+    "badName": "",
+    "fixName": "The Darkest Hour",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "The Day the Earth Stood Still",
+    "badName": "",
+    "fixName": "The Day the Earth Stood Still",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "The Debt",
+    "badName": "",
+    "fixName": "The Debt",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "The Departed",
+    "badName": "",
+    "fixName": "The Departed",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "The Descendants",
+    "badName": "",
+    "fixName": "The Descendants",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "The Devil's Double",
+    "badName": "",
+    "fixName": "The Devil's Double",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "The Dictator (2012)",
+    "badName": "",
+    "fixName": "The Dictator (2012)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "The Disaster Artist (2017)",
+    "badName": "",
+    "fixName": "The Disaster Artist (2017)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "The Disaster Artist (2017)",
+    "badName": "",
+    "fixName": "The Disaster Artist (2017)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "The Double (2011)",
+    "badName": "",
+    "fixName": "The Double (2011)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "The Endless (2017)",
+    "badName": "",
+    "fixName": "The Endless (2017)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "The Endless (2017)",
+    "badName": "",
+    "fixName": "The Endless (2017)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "The Evil Dead (1981)",
+    "badName": "",
+    "fixName": "The Evil Dead (1981)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "The Expatriate (2012)",
+    "badName": "",
+    "fixName": "The Expatriate (2012)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "The Expendables 1",
+    "badName": "",
+    "fixName": "The Expendables 1",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "DE",
+    "filename": "The Expendables 2 (2012)",
+    "badName": "",
+    "fixName": "The Expendables 2 (2012)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "A Fish Called Wanda (1988)",
+    "badName": "",
+    "fixName": "A Fish Called Wanda (1988)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Fair Game",
+    "badName": "",
+    "fixName": "Fair Game",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Fame",
+    "badName": "",
+    "fixName": "Fame",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Fantasia 2000",
+    "badName": "",
+    "fixName": "Fantasia 2000",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Fantastic Four Rise of the Silver Surfer",
+    "badName": "",
+    "fixName": "Fantastic Four Rise of the Silver Surfer",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Fargo",
+    "badName": "",
+    "fixName": "Fargo",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Fast Times at Ridgemont High (1982)",
+    "badName": "",
+    "fixName": "Fast Times at Ridgemont High (1982)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Fear and Loathing in Las Vegas",
+    "badName": "",
+    "fixName": "Fear and Loathing in Las Vegas",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Ferris Buellers Day Off (1986)",
+    "badName": "",
+    "fixName": "Ferris Buellers Day Off (1986)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Field of Dreams (1989)",
+    "badName": "",
+    "fixName": "Field of Dreams (1989)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Find Me Guilty",
+    "badName": "",
+    "fixName": "Find Me Guilty",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "First Blood",
+    "badName": "",
+    "fixName": "First Blood",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Flags of our Fathers",
+    "badName": "",
+    "fixName": "Flags of our Fathers",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Fletch",
+    "badName": "",
+    "fixName": "Fletch",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Fletch Lives",
+    "badName": "",
+    "fixName": "Fletch Lives",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Forgetting Sarah Marshall",
+    "badName": "",
+    "fixName": "Forgetting Sarah Marshall",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Forrest Gump",
+    "badName": "",
+    "fixName": "Forrest Gump",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Franklyn",
+    "badName": "",
+    "fixName": "Franklyn",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Frequency",
+    "badName": "",
+    "fixName": "Frequency",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Friends with Benefits",
+    "badName": "",
+    "fixName": "Friends with Benefits",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Fright Night",
+    "badName": "",
+    "fixName": "Fright Night",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Full Metal Jacket",
+    "badName": "",
+    "fixName": "Full Metal Jacket",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Galaxy Quest",
+    "badName": "",
+    "fixName": "Galaxy Quest",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Game Night (2018)",
+    "badName": "",
+    "fixName": "Game Night (2018)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Game Night (2018)",
+    "badName": "",
+    "fixName": "Game Night (2018)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Garden State",
+    "badName": "",
+    "fixName": "Garden State",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Gattaca",
+    "badName": "",
+    "fixName": "Gattaca",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Get Him to the Greek",
+    "badName": "",
+    "fixName": "Get Him to the Greek",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Get Low",
+    "badName": "",
+    "fixName": "Get Low",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Get Out (2017)",
+    "badName": "",
+    "fixName": "Get Out (2017)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Get Out (2017)",
+    "badName": "",
+    "fixName": "Get Out (2017)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Ghost Dog The Way of the Samurai",
+    "badName": "",
+    "fixName": "Ghost Dog The Way of the Samurai",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Ghostbusters 1 (1984)",
+    "badName": "",
+    "fixName": "Ghostbusters 1 (1984)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Ghostbusters 2 (1989)",
+    "badName": "",
+    "fixName": "Ghostbusters 2 (1989)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Glory (1989)",
+    "badName": "",
+    "fixName": "Glory (1989)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Gone With the Wind",
+    "badName": "",
+    "fixName": "Gone With the Wind",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Good Morning Vietnam",
+    "badName": "",
+    "fixName": "Good Morning Vietnam",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "GoodFellas (1990) Special Edition",
+    "badName": "",
+    "fixName": "GoodFellas (1990) Special Edition",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Gran Torino",
+    "badName": "",
+    "fixName": "Gran Torino",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Green Zone",
+    "badName": "",
+    "fixName": "Green Zone",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Gremlins",
+    "badName": "",
+    "fixName": "Gremlins",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "The Faculty",
+    "badName": "",
+    "fixName": "The Faculty",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "The Fifth Element",
+    "badName": "",
+    "fixName": "The Fifth Element",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "The Fighter",
+    "badName": "",
+    "fixName": "The Fighter",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "The Firm",
+    "badName": "",
+    "fixName": "The Firm",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "The Fisher King",
+    "badName": "",
+    "fixName": "The Fisher King",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "The Fly",
+    "badName": "",
+    "fixName": "The Fly",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "The Fountain",
+    "badName": "",
+    "fixName": "The Fountain",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "The Four Feathers",
+    "badName": "",
+    "fixName": "The Four Feathers",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "The Full Monty",
+    "badName": "",
+    "fixName": "The Full Monty",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "The Godfather",
+    "badName": "",
+    "fixName": "The Godfather",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "The Godfather Part II",
+    "badName": "",
+    "fixName": "The Godfather Part II",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "The Godfather Part III",
+    "badName": "",
+    "fixName": "The Godfather Part III",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "The Good Shepherd",
+    "badName": "",
+    "fixName": "The Good Shepherd",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "The Goonies",
+    "badName": "",
+    "fixName": "The Goonies",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "The Graduate",
+    "badName": "",
+    "fixName": "The Graduate",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "The Great Dictator",
+    "badName": "",
+    "fixName": "The Great Dictator",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "The Great Escape",
+    "badName": "",
+    "fixName": "The Great Escape",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "The Green Hornet",
+    "badName": "",
+    "fixName": "The Green Hornet",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "The Green Mile",
+    "badName": "",
+    "fixName": "The Green Mile",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Hair",
+    "badName": "",
+    "fixName": "Hair",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Hall Pass",
+    "badName": "",
+    "fixName": "Hall Pass",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Hanna",
+    "badName": "",
+    "fixName": "Hanna",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Happy Death Day (2017)",
+    "badName": "",
+    "fixName": "Happy Death Day (2017)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Happy Death Day (2017)",
+    "badName": "",
+    "fixName": "Happy Death Day (2017)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Hard Candy",
+    "badName": "",
+    "fixName": "Hard Candy",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Harry Potter 1 - The Sorcerer's Stone (2001)",
+    "badName": "",
+    "fixName": "Harry Potter 1 - The Sorcerer's Stone (2001)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Harry Potter 2 - The Chamber of Secrets (2002)",
+    "badName": "",
+    "fixName": "Harry Potter 2 - The Chamber of Secrets (2002)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Harry Potter 3 - The Prisoner of Azkaban (2004)",
+    "badName": "",
+    "fixName": "Harry Potter 3 - The Prisoner of Azkaban (2004)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Harry Potter 4 - The Goblet of Fire (2005)",
+    "badName": "",
+    "fixName": "Harry Potter 4 - The Goblet of Fire (2005)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Harry Potter 5 - The Order of the Phoenix (2007)",
+    "badName": "",
+    "fixName": "Harry Potter 5 - The Order of the Phoenix (2007)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Harry Potter 6 - The Half-Blood Prince (2009)",
+    "badName": "",
+    "fixName": "Harry Potter 6 - The Half-Blood Prince (2009)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Harry Potter 7 - The Deathly Hallows - Part 1 (2010)",
+    "badName": "",
+    "fixName": "Harry Potter 7 - The Deathly Hallows - Part 1 (2010)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Harry Potter 8 - The Deathly Hallows - Part 2 (2011)",
+    "badName": "",
+    "fixName": "Harry Potter 8 - The Deathly Hallows - Part 2 (2011)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Harry Potter 8 - The Deathly Hallows - Part 2 (2011)",
+    "badName": "",
+    "fixName": "Harry Potter 8 - The Deathly Hallows - Part 2 (2011)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Haywire (2012)",
+    "badName": "",
+    "fixName": "Haywire (2012)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Heat",
+    "badName": "",
+    "fixName": "Heat",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Heavenly Creatures",
+    "badName": "",
+    "fixName": "Heavenly Creatures",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Heavy Metal",
+    "badName": "",
+    "fixName": "Heavy Metal",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Hereafter",
+    "badName": "",
+    "fixName": "Hereafter",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Hidalgo",
+    "badName": "",
+    "fixName": "Hidalgo",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "High Fidelity (2000)",
+    "badName": "",
+    "fixName": "High Fidelity (2000)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "High Fidelity (2000)",
+    "badName": "",
+    "fixName": "High Fidelity (2000)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Highlander (1986)",
+    "badName": "",
+    "fixName": "Highlander (1986)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Hollywood Ending",
+    "badName": "",
+    "fixName": "Hollywood Ending",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Home Alone (1990)",
+    "badName": "",
+    "fixName": "Home Alone (1990)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Home Alone 2 - Lost In New York City (1992)",
+    "badName": "",
+    "fixName": "Home Alone 2 - Lost In New York City (1992)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Horrible Bosses (2011)",
+    "badName": "",
+    "fixName": "Horrible Bosses (2011)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Hot Tub Time Machine",
+    "badName": "",
+    "fixName": "Hot Tub Time Machine",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Hotel Chevalier",
+    "badName": "",
+    "fixName": "Hotel Chevalier",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Hotel Rwanda",
+    "badName": "",
+    "fixName": "Hotel Rwanda",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Hugo (2011)",
+    "badName": "",
+    "fixName": "Hugo (2011)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "I Kill Giants (2017)",
+    "badName": "",
+    "fixName": "I Kill Giants (2017)",
+    "extension": "mkv",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "I Kill Giants (2017)",
+    "badName": "",
+    "fixName": "I Kill Giants (2017)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "I Robot",
+    "badName": "",
+    "fixName": "I Robot",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Idiocracy (2006)",
+    "badName": "",
+    "fixName": "Idiocracy (2006)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Il Casanova di Federico Fellini",
+    "badName": "",
+    "fixName": "Il Casanova di Federico Fellini",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Immortals",
+    "badName": "",
+    "fixName": "Immortals",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "In Bruges",
+    "badName": "",
+    "fixName": "In Bruges",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "In Time",
+    "badName": "",
+    "fixName": "In Time",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Inception",
+    "badName": "",
+    "fixName": "Inception",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Independence Day (1996)",
+    "badName": "",
+    "fixName": "Independence Day (1996)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Indiana Jones 1 - Raiders of the Lost Ark (1981)",
+    "badName": "",
+    "fixName": "Indiana Jones 1 - Raiders of the Lost Ark (1981)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Indiana Jones 2 - Temple of Doom (1984)",
+    "badName": "",
+    "fixName": "Indiana Jones 2 - Temple of Doom (1984)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Indiana Jones 3 - Last Crusade (1989)",
+    "badName": "",
+    "fixName": "Indiana Jones 3 - Last Crusade (1989)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Indiana Jones 4 - Kingdom of the Crystal Skull (2008)",
+    "badName": "",
+    "fixName": "Indiana Jones 4 - Kingdom of the Crystal Skull (2008)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Inglourious Basterds",
+    "badName": "",
+    "fixName": "Inglourious Basterds",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Inland Empire",
+    "badName": "",
+    "fixName": "Inland Empire",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Inside Job",
+    "badName": "",
+    "fixName": "Inside Job",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Inside Man",
+    "badName": "",
+    "fixName": "Inside Man",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Inside Out (2015)",
+    "badName": "",
+    "fixName": "Inside Out (2015)",
+    "extension": "mkv",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Insidious",
+    "badName": "",
+    "fixName": "Insidious",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Insidious (2010)",
+    "badName": "",
+    "fixName": "Insidious (2010)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Insidious (2010)",
+    "badName": "",
+    "fixName": "Insidious (2010)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Insomnia",
+    "badName": "",
+    "fixName": "Insomnia",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Interstellar (2014)",
+    "badName": "",
+    "fixName": "Interstellar (2014)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Interstellar (2014)",
+    "badName": "",
+    "fixName": "Interstellar (2014)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Interview With a Hitman",
+    "badName": "",
+    "fixName": "Interview With a Hitman",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Into the Wild",
+    "badName": "",
+    "fixName": "Into the Wild",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Invasion of the Body Snatchers",
+    "badName": "",
+    "fixName": "Invasion of the Body Snatchers",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Invincible",
+    "badName": "",
+    "fixName": "Invincible",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Iron Man 1",
+    "badName": "",
+    "fixName": "Iron Man 1",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "Iron Man 2",
+    "badName": "",
+    "fixName": "Iron Man 2",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "It (2017)",
+    "badName": "",
+    "fixName": "It (2017)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "The Hangover",
+    "badName": "",
+    "fixName": "The Hangover",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "The Hangover Part II",
+    "badName": "",
+    "fixName": "The Hangover Part II",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "The Hobbit - The Tolkien Edit",
+    "badName": "",
+    "fixName": "The Hobbit - The Tolkien Edit",
+    "extension": "jpg",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "The Hobbit - The Tolkien Edit",
+    "badName": "",
+    "fixName": "The Hobbit - The Tolkien Edit",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "The Hobbit The Battle of the Five Armies (2014)",
+    "badName": "",
+    "fixName": "The Hobbit The Battle of the Five Armies (2014)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "The Hobbit The Battle of the Five Armies (2014)",
+    "badName": "",
+    "fixName": "The Hobbit The Battle of the Five Armies (2014)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "The Hunger Games 1",
+    "badName": "",
+    "fixName": "The Hunger Games 1",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "The Hunger Games 2 - Catching Fire (2013)",
+    "badName": "",
+    "fixName": "The Hunger Games 2 - Catching Fire (2013)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "The Hunger Games 3 - Mockingjay Part 1 (2014)",
+    "badName": "",
+    "fixName": "The Hunger Games 3 - Mockingjay Part 1 (2014)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "The Hunger Games 4 - Mockingjay Part 2 (2015)",
+    "badName": "",
+    "fixName": "The Hunger Games 4 - Mockingjay Part 2 (2015)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "The Hunt for Red October (1990)",
+    "badName": "",
+    "fixName": "The Hunt for Red October (1990)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "The Hurt Locker",
+    "badName": "",
+    "fixName": "The Hurt Locker",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "The Ides of March",
+    "badName": "",
+    "fixName": "The Ides of March",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "The Incredible Hulk",
+    "badName": "",
+    "fixName": "The Incredible Hulk",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "The Iron Giant",
+    "badName": "",
+    "fixName": "The Iron Giant",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "The Iron Lady (2011)",
+    "badName": "",
+    "fixName": "The Iron Lady (2011)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "HI",
+    "filename": "The Italian Job",
+    "badName": "",
+    "fixName": "The Italian Job",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "JK",
+    "filename": "Jacob's Ladder",
+    "badName": "",
+    "fixName": "Jacob's Ladder",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "JK",
+    "filename": "Jumanji (1995)",
+    "badName": "",
+    "fixName": "Jumanji (1995)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "JK",
+    "filename": "Juno",
+    "badName": "",
+    "fixName": "Juno",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "JK",
+    "filename": "Jurassic Park",
+    "badName": "",
+    "fixName": "Jurassic Park",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "JK",
+    "filename": "Kick-Ass",
+    "badName": "",
+    "fixName": "Kick-Ass",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "JK",
+    "filename": "Kill Bill Vol 1",
+    "badName": "",
+    "fixName": "Kill Bill Vol 1",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "JK",
+    "filename": "Kill Bill Vol 2",
+    "badName": "",
+    "fixName": "Kill Bill Vol 2",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "JK",
+    "filename": "Kill the Irishman",
+    "badName": "",
+    "fixName": "Kill the Irishman",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "JK",
+    "filename": "Kingdom Of Heaven DC",
+    "badName": "",
+    "fixName": "Kingdom Of Heaven DC",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "JK",
+    "filename": "Knocked Up",
+    "badName": "",
+    "fixName": "Knocked Up",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "JK",
+    "filename": "Knowing",
+    "badName": "",
+    "fixName": "Knowing",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "JK",
+    "filename": "Kung Fu Hustle",
+    "badName": "",
+    "fixName": "Kung Fu Hustle",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "JK",
+    "filename": "The Jerky Boys",
+    "badName": "",
+    "fixName": "The Jerky Boys",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "JK",
+    "filename": "The Killing Fields",
+    "badName": "",
+    "fixName": "The Killing Fields",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "JK",
+    "filename": "The King's Speech",
+    "badName": "",
+    "fixName": "The King's Speech",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "L",
+    "filename": "Ladyhawke",
+    "badName": "",
+    "fixName": "Ladyhawke",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "L",
+    "filename": "Lawrence of Arabia",
+    "badName": "",
+    "fixName": "Lawrence of Arabia",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "L",
+    "filename": "Layer Cake",
+    "badName": "",
+    "fixName": "Layer Cake",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "L",
+    "filename": "Leaving Las Vegas",
+    "badName": "",
+    "fixName": "Leaving Las Vegas",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "L",
+    "filename": "Letters from Iwo Jima",
+    "badName": "",
+    "fixName": "Letters from Iwo Jima",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "L",
+    "filename": "Life is Beautiful",
+    "badName": "",
+    "fixName": "Life is Beautiful",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "L",
+    "filename": "Life of Brian",
+    "badName": "",
+    "fixName": "Life of Brian",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "L",
+    "filename": "Little Children",
+    "badName": "",
+    "fixName": "Little Children",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "L",
+    "filename": "Little Miss Sunshine",
+    "badName": "",
+    "fixName": "Little Miss Sunshine",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "L",
+    "filename": "Logan's Run",
+    "badName": "",
+    "fixName": "Logan's Run",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "L",
+    "filename": "London Boulevard",
+    "badName": "",
+    "fixName": "London Boulevard",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "L",
+    "filename": "Lord of War",
+    "badName": "",
+    "fixName": "Lord of War",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "L",
+    "filename": "Lost in Translation (2003)",
+    "badName": "",
+    "fixName": "Lost in Translation (2003)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "L",
+    "filename": "Lucky Number Slevin",
+    "badName": "",
+    "fixName": "Lucky Number Slevin",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "L",
+    "filename": "The Last Emperor",
+    "badName": "",
+    "fixName": "The Last Emperor",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "L",
+    "filename": "The Last of the Mohicans",
+    "badName": "",
+    "fixName": "The Last of the Mohicans",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "L",
+    "filename": "The Last Starfighter",
+    "badName": "",
+    "fixName": "The Last Starfighter",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "L",
+    "filename": "The Lincoln Lawyer",
+    "badName": "",
+    "fixName": "The Lincoln Lawyer",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "L",
+    "filename": "The Longest Day",
+    "badName": "",
+    "fixName": "The Longest Day",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "L",
+    "filename": "The Lovely Bones",
+    "badName": "",
+    "fixName": "The Lovely Bones",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "L",
+    "filename": "The Lovely Bones",
+    "badName": "",
+    "fixName": "The Lovely Bones",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Machete",
+    "badName": "",
+    "fixName": "Machete",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Mad Max",
+    "badName": "",
+    "fixName": "Mad Max",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Malcolm X",
+    "badName": "",
+    "fixName": "Malcolm X",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Man on Fire",
+    "badName": "",
+    "fixName": "Man on Fire",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Man on the Moon",
+    "badName": "",
+    "fixName": "Man on the Moon",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Mary and Max",
+    "badName": "",
+    "fixName": "Mary and Max",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Match Point",
+    "badName": "",
+    "fixName": "Match Point",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Matchstick Men",
+    "badName": "",
+    "fixName": "Matchstick Men",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Mean Streets",
+    "badName": "",
+    "fixName": "Mean Streets",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Meet The Parents",
+    "badName": "",
+    "fixName": "Meet The Parents",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Megamind",
+    "badName": "",
+    "fixName": "Megamind",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Melancholia",
+    "badName": "",
+    "fixName": "Melancholia",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Memoirs of a Geisha",
+    "badName": "",
+    "fixName": "Memoirs of a Geisha",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Men of Honor",
+    "badName": "",
+    "fixName": "Men of Honor",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Midnight Cowboy",
+    "badName": "",
+    "fixName": "Midnight Cowboy",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Midnight in Paris",
+    "badName": "",
+    "fixName": "Midnight in Paris",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Miller's Crossing",
+    "badName": "",
+    "fixName": "Miller's Crossing",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Million Dollar Baby",
+    "badName": "",
+    "fixName": "Million Dollar Baby",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Minority Report",
+    "badName": "",
+    "fixName": "Minority Report",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Misery",
+    "badName": "",
+    "fixName": "Misery",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Mission Impossible - Ghost Protocol",
+    "badName": "",
+    "fixName": "Mission Impossible - Ghost Protocol",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Modern Times",
+    "badName": "",
+    "fixName": "Modern Times",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Moneyball",
+    "badName": "",
+    "fixName": "Moneyball",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Mr & Mrs Smith DC",
+    "badName": "",
+    "fixName": "Mr & Mrs Smith DC",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Mr. Nobody",
+    "badName": "",
+    "fixName": "Mr. Nobody",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "My Cousin Vinny",
+    "badName": "",
+    "fixName": "My Cousin Vinny",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "Mystic River",
+    "badName": "",
+    "fixName": "Mystic River",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "The Maltese Falcon",
+    "badName": "",
+    "fixName": "The Maltese Falcon",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "The Man From Earth",
+    "badName": "",
+    "fixName": "The Man From Earth",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "The Mask of Zorro",
+    "badName": "",
+    "fixName": "The Mask of Zorro",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "The Matrix 2 - Reloaded (2003)",
+    "badName": "",
+    "fixName": "The Matrix 2 - Reloaded (2003)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "The Matrix 3 - Revolutions (2003)",
+    "badName": "",
+    "fixName": "The Matrix 3 - Revolutions (2003)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "The Mechanic",
+    "badName": "",
+    "fixName": "The Mechanic",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "The Midnight Meat Train",
+    "badName": "",
+    "fixName": "The Midnight Meat Train",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "The Mist",
+    "badName": "",
+    "fixName": "The Mist",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "The Mothman Prophecies",
+    "badName": "",
+    "fixName": "The Mothman Prophecies",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "M",
+    "filename": "The Motorcycle Diaries",
+    "badName": "",
+    "fixName": "The Motorcycle Diaries",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Naked Gun 1 - The Naked Gun - From the Files of Police Squad (1988)",
+    "badName": "",
+    "fixName": "Naked Gun 1 - The Naked Gun - From the Files of Police Squad (1988)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Naked Gun 2 - The Naked Gun 2½ - The Smell of Fear (1991)",
+    "badName": "",
+    "fixName": "Naked Gun 2 - The Naked Gun 2½ - The Smell of Fear (1991)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Naked Gun 3 - Naked Gun 33⅓ - The Final Insult (1994)",
+    "badName": "",
+    "fixName": "Naked Gun 3 - Naked Gun 33⅓ - The Final Insult (1994)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Natural Born Killers DC",
+    "badName": "",
+    "fixName": "Natural Born Killers DC",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Network",
+    "badName": "",
+    "fixName": "Network",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Next",
+    "badName": "",
+    "fixName": "Next",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Nineteen Eighty-Four",
+    "badName": "",
+    "fixName": "Nineteen Eighty-Four",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "No Country for Old Men",
+    "badName": "",
+    "fixName": "No Country for Old Men",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "North by Northwest",
+    "badName": "",
+    "fixName": "North by Northwest",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "October Sky",
+    "badName": "",
+    "fixName": "October Sky",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Office Space",
+    "badName": "",
+    "fixName": "Office Space",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Once Upon a Time in America",
+    "badName": "",
+    "fixName": "Once Upon a Time in America",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "One Flew Over the Cuckoo's Nest",
+    "badName": "",
+    "fixName": "One Flew Over the Cuckoo's Nest",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Our Idiot Brother",
+    "badName": "",
+    "fixName": "Our Idiot Brother",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Paddington (2014)",
+    "badName": "",
+    "fixName": "Paddington (2014)",
+    "extension": "mkv",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Pandorum",
+    "badName": "",
+    "fixName": "Pandorum",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Papillon",
+    "badName": "",
+    "fixName": "Papillon",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Paris Texas",
+    "badName": "",
+    "fixName": "Paris Texas",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Patton",
+    "badName": "",
+    "fixName": "Patton",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Paul Ext",
+    "badName": "",
+    "fixName": "Paul Ext",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Payback DC",
+    "badName": "",
+    "fixName": "Payback DC",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Peeping Tom",
+    "badName": "",
+    "fixName": "Peeping Tom",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Perfume The Story of a Murderer",
+    "badName": "",
+    "fixName": "Perfume The Story of a Murderer",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Pi",
+    "badName": "",
+    "fixName": "Pi",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Pineapple Express",
+    "badName": "",
+    "fixName": "Pineapple Express",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Pink Floyd The Wall",
+    "badName": "",
+    "fixName": "Pink Floyd The Wall",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Pirates of the Caribbean 1 - The Curse of the Black Pearl (2003)",
+    "badName": "",
+    "fixName": "Pirates of the Caribbean 1 - The Curse of the Black Pearl (2003)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Pirates of the Caribbean 2 - Dead Man's Chest (2006)",
+    "badName": "",
+    "fixName": "Pirates of the Caribbean 2 - Dead Man's Chest (2006)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Pirates of the Caribbean 3 - At World's End (2007)",
+    "badName": "",
+    "fixName": "Pirates of the Caribbean 3 - At World's End (2007)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Pitch Perfect (2012)",
+    "badName": "",
+    "fixName": "Pitch Perfect (2012)",
+    "extension": "avi",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Pitch Perfect (2012)",
+    "badName": "",
+    "fixName": "Pitch Perfect (2012)",
+    "extension": "jpg",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Pitch Perfect (2012)",
+    "badName": "",
+    "fixName": "Pitch Perfect (2012)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Pitch Perfect (2012) - cover",
+    "badName": "",
+    "fixName": "Pitch Perfect (2012) - cover",
+    "extension": "jpg",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Pitch Perfect (2012) - disc",
+    "badName": "",
+    "fixName": "Pitch Perfect (2012) - disc",
+    "extension": "jpg",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Planet OF The Apes -07- Rise of The Planet of the Apes",
+    "badName": "",
+    "fixName": "Planet OF The Apes -07- Rise of The Planet of the Apes",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Predator",
+    "badName": "",
+    "fixName": "Predator",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Predator 2",
+    "badName": "",
+    "fixName": "Predator 2",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Primal Fear",
+    "badName": "",
+    "fixName": "Primal Fear",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Prince of Persia The Sands of Time",
+    "badName": "",
+    "fixName": "Prince of Persia The Sands of Time",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Professor Marston and the Wonder Women (2017)",
+    "badName": "",
+    "fixName": "Professor Marston and the Wonder Women (2017)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Professor Marston and the Wonder Women (2017)",
+    "badName": "",
+    "fixName": "Professor Marston and the Wonder Women (2017)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Prometheus",
+    "badName": "",
+    "fixName": "Prometheus",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Pulp Fiction",
+    "badName": "",
+    "fixName": "Pulp Fiction",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "The Name of the Rose",
+    "badName": "",
+    "fixName": "The Name of the Rose",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "The Next Three Days",
+    "badName": "",
+    "fixName": "The Next Three Days",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "The Ninth Gate",
+    "badName": "",
+    "fixName": "The Ninth Gate",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "NOP",
+    "filename": "The Painted Veil",
+    "badName": "",
+    "fixName": "The Painted Veil",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "QR",
+    "filename": "A Quiet Place (2018)",
+    "badName": "",
+    "fixName": "A Quiet Place (2018)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "QR",
+    "filename": "A Quiet Place (2018)",
+    "badName": "",
+    "fixName": "A Quiet Place (2018)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "QR",
+    "filename": "Raging Bull",
+    "badName": "",
+    "fixName": "Raging Bull",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "QR",
+    "filename": "Raising Arizona",
+    "badName": "",
+    "fixName": "Raising Arizona",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "QR",
+    "filename": "Rango Ext",
+    "badName": "",
+    "fixName": "Rango Ext",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "QR",
+    "filename": "Real Steel",
+    "badName": "",
+    "fixName": "Real Steel",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "QR",
+    "filename": "Red Heat",
+    "badName": "",
+    "fixName": "Red Heat",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "QR",
+    "filename": "Reign Over Me",
+    "badName": "",
+    "fixName": "Reign Over Me",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "QR",
+    "filename": "Renaissance",
+    "badName": "",
+    "fixName": "Renaissance",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "QR",
+    "filename": "Rio",
+    "badName": "",
+    "fixName": "Rio",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "QR",
+    "filename": "Road to Perdition",
+    "badName": "",
+    "fixName": "Road to Perdition",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "QR",
+    "filename": "Robin Hood",
+    "badName": "",
+    "fixName": "Robin Hood",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "QR",
+    "filename": "Role Models",
+    "badName": "",
+    "fixName": "Role Models",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "QR",
+    "filename": "Rounders",
+    "badName": "",
+    "fixName": "Rounders",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "QR",
+    "filename": "Run Fatboy Run",
+    "badName": "",
+    "fixName": "Run Fatboy Run",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "QR",
+    "filename": "Rushmore",
+    "badName": "",
+    "fixName": "Rushmore",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "QR",
+    "filename": "The Rocker",
+    "badName": "",
+    "fixName": "The Rocker",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "QR",
+    "filename": "The Rocky Horror Picture Show",
+    "badName": "",
+    "fixName": "The Rocky Horror Picture Show",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "QR",
+    "filename": "The Ruins",
+    "badName": "",
+    "fixName": "The Ruins",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "QR",
+    "filename": "The Rum Diary",
+    "badName": "",
+    "fixName": "The Rum Diary",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "QR",
+    "filename": "The Runaways",
+    "badName": "",
+    "fixName": "The Runaways",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Santa Sangre",
+    "badName": "",
+    "fixName": "Santa Sangre",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Saving Private Ryan",
+    "badName": "",
+    "fixName": "Saving Private Ryan",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Schindler's List",
+    "badName": "",
+    "fixName": "Schindler's List",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Scott Pilgrim vs. the World",
+    "badName": "",
+    "fixName": "Scott Pilgrim vs. the World",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Se7en",
+    "badName": "",
+    "fixName": "Se7en",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Secondhand Lions",
+    "badName": "",
+    "fixName": "Secondhand Lions",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Serpico",
+    "badName": "",
+    "fixName": "Serpico",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Seven Samurai",
+    "badName": "",
+    "fixName": "Seven Samurai",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Sex Lies and Videotape",
+    "badName": "",
+    "fixName": "Sex Lies and Videotape",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Shaun of the Dead",
+    "badName": "",
+    "fixName": "Shaun of the Dead",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Shoot Em Up",
+    "badName": "",
+    "fixName": "Shoot Em Up",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Shooter",
+    "badName": "",
+    "fixName": "Shooter",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Sin City",
+    "badName": "",
+    "fixName": "Sin City",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Singin in the Rain (1952)",
+    "badName": "",
+    "fixName": "Singin in the Rain (1952)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Sleepy Hollow",
+    "badName": "",
+    "fixName": "Sleepy Hollow",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Sleuth",
+    "badName": "",
+    "fixName": "Sleuth",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Small Time Crooks",
+    "badName": "",
+    "fixName": "Small Time Crooks",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Snow White and the Huntsman extended",
+    "badName": "",
+    "fixName": "Snow White and the Huntsman extended",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Solo - A Star Wars Story (2018)",
+    "badName": "",
+    "fixName": "Solo - A Star Wars Story (2018)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Solo - A Star Wars Story (2018)",
+    "badName": "",
+    "fixName": "Solo - A Star Wars Story (2018)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Some Like It Hot",
+    "badName": "",
+    "fixName": "Some Like It Hot",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Son of Rambow",
+    "badName": "",
+    "fixName": "Son of Rambow",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Source Code",
+    "badName": "",
+    "fixName": "Source Code",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Splice",
+    "badName": "",
+    "fixName": "Splice",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Star Trek",
+    "badName": "",
+    "fixName": "Star Trek",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Stardust",
+    "badName": "",
+    "fixName": "Stardust",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Stargate",
+    "badName": "",
+    "fixName": "Stargate",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Starship Troopers",
+    "badName": "",
+    "fixName": "Starship Troopers",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "State of Grace",
+    "badName": "",
+    "fixName": "State of Grace",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Strange Days",
+    "badName": "",
+    "fixName": "Strange Days",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Stranger than Fiction",
+    "badName": "",
+    "fixName": "Stranger than Fiction",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Submarine",
+    "badName": "",
+    "fixName": "Submarine",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Sucker Punch Ext",
+    "badName": "",
+    "fixName": "Sucker Punch Ext",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Sunshine",
+    "badName": "",
+    "fixName": "Sunshine",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Super",
+    "badName": "",
+    "fixName": "Super",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Superbad",
+    "badName": "",
+    "fixName": "Superbad",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Superman",
+    "badName": "",
+    "fixName": "Superman",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Superman II The Richard Donner Cut",
+    "badName": "",
+    "fixName": "Superman II The Richard Donner Cut",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "Superman Shazam The Return of Black Adam",
+    "badName": "",
+    "fixName": "Superman Shazam The Return of Black Adam",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "The Science of Sleep",
+    "badName": "",
+    "fixName": "The Science of Sleep",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "The Secret of Kells",
+    "badName": "",
+    "fixName": "The Secret of Kells",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "The Secret Of NIMH",
+    "badName": "",
+    "fixName": "The Secret Of NIMH",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "The Shawshank Redemption",
+    "badName": "",
+    "fixName": "The Shawshank Redemption",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "The Silence of the Lambs",
+    "badName": "",
+    "fixName": "The Silence of the Lambs",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "The Sixth Sense",
+    "badName": "",
+    "fixName": "The Sixth Sense",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "The Social Network",
+    "badName": "",
+    "fixName": "The Social Network",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "S",
+    "filename": "The Stranger",
+    "badName": "",
+    "fixName": "The Stranger",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "Take Me Home Tonight",
+    "badName": "",
+    "fixName": "Take Me Home Tonight",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "Taken",
+    "badName": "",
+    "fixName": "Taken",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "Taking Woodstock",
+    "badName": "",
+    "fixName": "Taking Woodstock",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "Ten Canoes",
+    "badName": "",
+    "fixName": "Ten Canoes",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "The Terminator",
+    "badName": "",
+    "fixName": "The Terminator",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "The Texas Chainsaw Massacre",
+    "badName": "",
+    "fixName": "The Texas Chainsaw Massacre",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "The Third Man",
+    "badName": "",
+    "fixName": "The Third Man",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "The Thirteenth Floor",
+    "badName": "",
+    "fixName": "The Thirteenth Floor",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "The Tourist",
+    "badName": "",
+    "fixName": "The Tourist",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "The Town",
+    "badName": "",
+    "fixName": "The Town",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "The Truman Show",
+    "badName": "",
+    "fixName": "The Truman Show",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "There Will Be Blood",
+    "badName": "",
+    "fixName": "There Will Be Blood",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "There's Something About Mary Ext",
+    "badName": "",
+    "fixName": "There's Something About Mary Ext",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "This is England",
+    "badName": "",
+    "fixName": "This is England",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "This is Spinal Tap",
+    "badName": "",
+    "fixName": "This is Spinal Tap",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "THX 1138",
+    "badName": "",
+    "fixName": "THX 1138",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "Tigerland",
+    "badName": "",
+    "fixName": "Tigerland",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "Time Bandits",
+    "badName": "",
+    "fixName": "Time Bandits",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "Tinker Tailor Soldier Spy",
+    "badName": "",
+    "fixName": "Tinker Tailor Soldier Spy",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "Titanic",
+    "badName": "",
+    "fixName": "Titanic",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "To Kill a Mockingbird",
+    "badName": "",
+    "fixName": "To Kill a Mockingbird",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "Tower Heist",
+    "badName": "",
+    "fixName": "Tower Heist",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "Toy Story - Hawaiian Vacation",
+    "badName": "",
+    "fixName": "Toy Story - Hawaiian Vacation",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "Trainspotting",
+    "badName": "",
+    "fixName": "Trainspotting",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "Transformers (2007)",
+    "badName": "",
+    "fixName": "Transformers (2007)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "Transformers 2 - Revenge of the Fallen (2009)",
+    "badName": "",
+    "fixName": "Transformers 2 - Revenge of the Fallen (2009)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "Triangle",
+    "badName": "",
+    "fixName": "Triangle",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "Tron Legacy",
+    "badName": "",
+    "fixName": "Tron Legacy",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "True Grit",
+    "badName": "",
+    "fixName": "True Grit",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "T",
+    "filename": "Trust",
+    "badName": "",
+    "fixName": "Trust",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "A Very Harold & Kumar Christmas",
+    "badName": "",
+    "fixName": "A Very Harold & Kumar Christmas",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "The Untouchables",
+    "badName": "",
+    "fixName": "The Untouchables",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "The Untouchables",
+    "badName": "",
+    "fixName": "The Untouchables",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "The Usual Suspects",
+    "badName": "",
+    "fixName": "The Usual Suspects",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "The Warrior's Way",
+    "badName": "",
+    "fixName": "The Warrior's Way",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "The Watch (2012)",
+    "badName": "",
+    "fixName": "The Watch (2012)",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "The Way Back",
+    "badName": "",
+    "fixName": "The Way Back",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "The Whistleblower",
+    "badName": "",
+    "fixName": "The Whistleblower",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "The Witch (2016)",
+    "badName": "",
+    "fixName": "The Witch (2016)",
+    "extension": "mkv",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "The Wizard of Oz",
+    "badName": "",
+    "fixName": "The Wizard of Oz",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "The Wolfman (2010)",
+    "badName": "",
+    "fixName": "The Wolfman (2010)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "The Words (2012)",
+    "badName": "",
+    "fixName": "The Words (2012)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Uncle Buck",
+    "badName": "",
+    "fixName": "Uncle Buck",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Unforgiven",
+    "badName": "",
+    "fixName": "Unforgiven",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Unknown",
+    "badName": "",
+    "fixName": "Unknown",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Unstoppable",
+    "badName": "",
+    "fixName": "Unstoppable",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Upgrade (2018)",
+    "badName": "",
+    "fixName": "Upgrade (2018)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Upgrade (2018)",
+    "badName": "",
+    "fixName": "Upgrade (2018)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "V for Vendetta",
+    "badName": "",
+    "fixName": "V for Vendetta",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Vertigo",
+    "badName": "",
+    "fixName": "Vertigo",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Videodrome",
+    "badName": "",
+    "fixName": "Videodrome",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Waking Life",
+    "badName": "",
+    "fixName": "Waking Life",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Wall Street (1987)",
+    "badName": "",
+    "fixName": "Wall Street (1987)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Wall Street Money Never Sleeps (2010)",
+    "badName": "",
+    "fixName": "Wall Street Money Never Sleeps (2010)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "War Horse (2011)",
+    "badName": "",
+    "fixName": "War Horse (2011)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Watchmen (2009)",
+    "badName": "",
+    "fixName": "Watchmen (2009)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Watchmen Tales of the Black Freighter",
+    "badName": "",
+    "fixName": "Watchmen Tales of the Black Freighter",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Water For Elephants",
+    "badName": "",
+    "fixName": "Water For Elephants",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Watership Down",
+    "badName": "",
+    "fixName": "Watership Down",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "We Bought a Zoo",
+    "badName": "",
+    "fixName": "We Bought a Zoo",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "We Own the Night (2007)",
+    "badName": "",
+    "fixName": "We Own the Night (2007)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Wedding Crashers",
+    "badName": "",
+    "fixName": "Wedding Crashers",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Weird Science (1985)",
+    "badName": "",
+    "fixName": "Weird Science (1985)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "When Harry Met Sally",
+    "badName": "",
+    "fixName": "When Harry Met Sally",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Who Framed Roger Rabbit",
+    "badName": "",
+    "fixName": "Who Framed Roger Rabbit",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Wild at Heart",
+    "badName": "",
+    "fixName": "Wild at Heart",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Win Win",
+    "badName": "",
+    "fixName": "Win Win",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Winter's Bone",
+    "badName": "",
+    "fixName": "Winter's Bone",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Wizards",
+    "badName": "",
+    "fixName": "Wizards",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Wonder Woman",
+    "badName": "",
+    "fixName": "Wonder Woman",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Wonder Woman (2009)",
+    "badName": "",
+    "fixName": "Wonder Woman (2009)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Wonder Woman (2009)",
+    "badName": "",
+    "fixName": "Wonder Woman (2009)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Wonder Woman (2017)",
+    "badName": "",
+    "fixName": "Wonder Woman (2017)",
+    "extension": "srt",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Wonder Woman (2017)",
+    "badName": "",
+    "fixName": "Wonder Woman (2017)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "UVW",
+    "filename": "Wrath of the Titans (2012)",
+    "badName": "",
+    "fixName": "Wrath of the Titans (2012)",
+    "extension": "mp4",
+    "reason": "good"
+  },
+  {
+    "dir": "XYZ",
+    "filename": "X-Men",
+    "badName": "",
+    "fixName": "X-Men",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "XYZ",
+    "filename": "X-Men 2",
+    "badName": "",
+    "fixName": "X-Men 2",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "XYZ",
+    "filename": "X-Men First Class",
+    "badName": "",
+    "fixName": "X-Men First Class",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "XYZ",
+    "filename": "X-Men The Last Stand",
+    "badName": "",
+    "fixName": "X-Men The Last Stand",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "XYZ",
+    "filename": "XIII The Conspiracy",
+    "badName": "",
+    "fixName": "XIII The Conspiracy",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "XYZ",
+    "filename": "Yojimbo",
+    "badName": "",
+    "fixName": "Yojimbo",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "XYZ",
+    "filename": "Zathura A Space Adventure",
+    "badName": "",
+    "fixName": "Zathura A Space Adventure",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "XYZ",
+    "filename": "Zombieland",
+    "badName": "",
+    "fixName": "Zombieland",
+    "extension": "m4v",
+    "reason": "good"
+  },
+  {
+    "dir": "FG",
+    "filename": "Ghost Rider - Spirit of Vengeance",
+    "badName": "Ghost Rider - Spirit of Vengeance (HD)",
+    "fixName": "Ghost Rider - Spirit of Vengeance",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "FG",
+    "filename": "The Grey",
+    "badName": "The Grey (HD)",
+    "fixName": "The Grey",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "JK",
+    "filename": "Jeff, Who Lives at Home",
+    "badName": "Jeff, Who Lives at Home (HD)",
+    "fixName": "Jeff, Who Lives at Home",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "JK",
+    "filename": "Journey 2_ The Mysterious Island",
+    "badName": "Journey 2_ The Mysterious Island (HD)",
+    "fixName": "Journey 2_ The Mysterious Island",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "JK",
+    "filename": "Killer Elite",
+    "badName": "Killer Elite (HD)",
+    "fixName": "Killer Elite",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "L",
+    "filename": "Like Crazy",
+    "badName": "Like Crazy (HD)",
+    "fixName": "Like Crazy",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "L",
+    "filename": "Lockout",
+    "badName": "Lockout (HD)",
+    "fixName": "Lockout",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "M",
+    "filename": "Man on a Ledge",
+    "badName": "Man on a Ledge (HD)",
+    "fixName": "Man on a Ledge",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "M",
+    "filename": "Memento",
+    "badName": "Memento (HD)",
+    "fixName": "Memento",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "M",
+    "filename": "Mirror Mirror",
+    "badName": "Mirror Mirror (HD)",
+    "fixName": "Mirror Mirror",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "M",
+    "filename": "Mission_ Impossible - Ghost Protocol",
+    "badName": "Mission_ Impossible - Ghost Protocol (HD)",
+    "fixName": "Mission_ Impossible - Ghost Protocol",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Project X",
+    "badName": "Project X (HD)",
+    "fixName": "Project X",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "NOP",
+    "filename": "The Pixar Story",
+    "badName": "The Pixar Story (HD)",
+    "fixName": "The Pixar Story",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "QR",
+    "filename": "Rampart (2011)",
+    "badName": "Rampart (2011) (HD)",
+    "fixName": "Rampart (2011)",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "QR",
+    "filename": "Red Tails",
+    "badName": "Red Tails (HD)",
+    "fixName": "Red Tails",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "S",
+    "filename": "Safe House",
+    "badName": "Safe House (HD)",
+    "fixName": "Safe House",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "S",
+    "filename": "Shame",
+    "badName": "Shame (HD)",
+    "fixName": "Shame",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "S",
+    "filename": "Spider-Man",
+    "badName": "Spider-Man (HD)",
+    "fixName": "Spider-Man",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "S",
+    "filename": "Spider-Man 2",
+    "badName": "Spider-Man 2 (HD)",
+    "fixName": "Spider-Man 2",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "S",
+    "filename": "Spider-Man 3",
+    "badName": "Spider-Man 3 (HD)",
+    "fixName": "Spider-Man 3",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "S",
+    "filename": "Star Wars_ Episode I - The Phantom Menace",
+    "badName": "Star Wars_ Episode I - The Phantom Menace (HD)",
+    "fixName": "Star Wars_ Episode I - The Phantom Menace",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "S",
+    "filename": "Star Wars_ Episode II - Attack of the Clones",
+    "badName": "Star Wars_ Episode II - Attack of the Clones (HD)",
+    "fixName": "Star Wars_ Episode II - Attack of the Clones",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "S",
+    "filename": "Star Wars_ Episode III - Revenge of the Sith",
+    "badName": "Star Wars_ Episode III - Revenge of the Sith (HD)",
+    "fixName": "Star Wars_ Episode III - Revenge of the Sith",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "S",
+    "filename": "Star Wars_ Episode IV - A New Hope",
+    "badName": "Star Wars_ Episode IV - A New Hope (HD)",
+    "fixName": "Star Wars_ Episode IV - A New Hope",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "S",
+    "filename": "Star Wars_ Episode V - The Empire Strikes Back",
+    "badName": "Star Wars_ Episode V - The Empire Strikes Back (HD)",
+    "fixName": "Star Wars_ Episode V - The Empire Strikes Back",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "S",
+    "filename": "Star Wars_ Episode VI - Return of the Jedi",
+    "badName": "Star Wars_ Episode VI - Return of the Jedi (HD)",
+    "fixName": "Star Wars_ Episode VI - Return of the Jedi",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "S",
+    "filename": "The Sitter (Unrated)",
+    "badName": "The Sitter (Unrated) (HD)",
+    "fixName": "The Sitter (Unrated)",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "T",
+    "filename": "The Three Musketeers (2011)",
+    "badName": "The Three Musketeers (2011) (HD)",
+    "fixName": "The Three Musketeers (2011)",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "T",
+    "filename": "Thor",
+    "badName": "Thor (HD)",
+    "fixName": "Thor",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "T",
+    "filename": "Transformers - The Movie",
+    "badName": "Transformers - The Movie (HD)",
+    "fixName": "Transformers - The Movie",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "XYZ",
+    "filename": "Young Adult",
+    "badName": "Young Adult (HD)",
+    "fixName": "Young Adult",
+    "extension": "m4v",
+    "reason": "HD"
+  },
+  {
+    "dir": "C",
+    "filename": "Colombiana",
+    "badName": "Colombiana Unr",
+    "fixName": "Colombiana",
+    "extension": "m4v",
+    "reason": "UNR"
+  },
+  {
+    "dir": "HI",
+    "filename": "Harold and Kumar Escape from Guantanamo Bay",
+    "badName": "Harold and Kumar Escape from Guantanamo Bay UNR",
+    "fixName": "Harold and Kumar Escape from Guantanamo Bay",
+    "extension": "m4v",
+    "reason": "UNR"
+  },
+  {
+    "dir": "L",
+    "filename": "Limitless",
+    "badName": "Limitless Unr",
+    "fixName": "Limitless",
+    "extension": "m4v",
+    "reason": "UNR"
+  },
+  {
+    "dir": "S",
+    "filename": "Spy (2015)",
+    "badName": "Spy (2015) UNRATED",
+    "fixName": "Spy (2015)",
+    "extension": "srt",
+    "reason": "UNR"
+  },
+  {
+    "dir": "S",
+    "filename": "Spy (2015)",
+    "badName": "Spy (2015) UNRATED",
+    "fixName": "Spy (2015)",
+    "extension": "avi",
+    "reason": "UNR"
+  },
+  {
+    "dir": "S",
+    "filename": "Straw Dogs",
+    "badName": "Straw Dogs UNR",
+    "fixName": "Straw Dogs",
+    "extension": "m4v",
+    "reason": "UNR"
+  },
+  {
+    "dir": "XYZ",
+    "filename": "Your Highness",
+    "badName": "Your Highness Unr",
+    "fixName": "Your Highness",
+    "extension": "m4v",
+    "reason": "UNR"
+  },
+  {
+    "dir": "FG",
+    "filename": "Firefox (1982)",
+    "badName": "Firefox.720 - 1982",
+    "fixName": "Firefox (1982)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "FG",
+    "filename": "Flash Gordon (1980)",
+    "badName": "Flash Gordon.720 - 1980",
+    "fixName": "Flash Gordon (1980)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "FG",
+    "filename": "Friday 1 DC (1995)",
+    "badName": "Friday 1 DC.720 - 1995",
+    "fixName": "Friday 1 DC (1995)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "FG",
+    "filename": "Friday 2 - Next Friday (2000)",
+    "badName": "Friday 2 - Next Friday - 2000",
+    "fixName": "Friday 2 - Next Friday (2000)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "FG",
+    "filename": "Friday 3 - Friday After Next (2002)",
+    "badName": "Friday 3 - Friday After Next - 2002",
+    "fixName": "Friday 3 - Friday After Next (2002)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "FG",
+    "filename": "From Beyond (1986)",
+    "badName": "From Beyond.720 - 1986",
+    "fixName": "From Beyond (1986)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "FG",
+    "filename": "Full Metal Jacket (1987)",
+    "badName": "Full Metal Jacket.720 - 1987",
+    "fixName": "Full Metal Jacket (1987)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "FG",
+    "filename": "Goon (2011)",
+    "badName": "Goon.720 - 2011",
+    "fixName": "Goon (2011)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "FG",
+    "filename": "The Final Countdown (1980)",
+    "badName": "The Final Countdown.720 - 1980",
+    "fixName": "The Final Countdown (1980)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "FG",
+    "filename": "The Girl With The Dragon Tattoo (2011)",
+    "badName": "The Girl With The Dragon Tattoo.720 - 2011",
+    "fixName": "The Girl With The Dragon Tattoo (2011)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "Jackie Brown (1997)",
+    "badName": "Jackie Brown.720 - 1997",
+    "fixName": "Jackie Brown (1997)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "James Bond -01- Dr. No (1962)",
+    "badName": "James Bond -01- Dr. No.720 - 1962",
+    "fixName": "James Bond -01- Dr. No (1962)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "James Bond -02- From Russia With Love (1963)",
+    "badName": "James Bond -02- From Russia With Love.720 - 1963",
+    "fixName": "James Bond -02- From Russia With Love (1963)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "James Bond -03- Goldfinger (1964)",
+    "badName": "James Bond -03- Goldfinger.720 - 1964",
+    "fixName": "James Bond -03- Goldfinger (1964)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "James Bond -04- Thunderball (1965)",
+    "badName": "James Bond -04- Thunderball.720 - 1965",
+    "fixName": "James Bond -04- Thunderball (1965)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "James Bond -05- You Only Live Twice (1967)",
+    "badName": "James Bond -05- You Only Live Twice.720 - 1967",
+    "fixName": "James Bond -05- You Only Live Twice (1967)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "James Bond -06- On Her Majastys Secret Service (1969)",
+    "badName": "James Bond -06- On Her Majastys Secret Service.720 - 1969",
+    "fixName": "James Bond -06- On Her Majastys Secret Service (1969)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "James Bond -07- Diamonds Are Forever (1971)",
+    "badName": "James Bond -07- Diamonds Are Forever.720 - 1971",
+    "fixName": "James Bond -07- Diamonds Are Forever (1971)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "James Bond -08- Live and Let Die (1973)",
+    "badName": "James Bond -08- Live and Let Die.720 - 1973",
+    "fixName": "James Bond -08- Live and Let Die (1973)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "James Bond -09- The Man With The Golden Gun (1974)",
+    "badName": "James Bond -09- The Man With The Golden Gun.720 - 1974",
+    "fixName": "James Bond -09- The Man With The Golden Gun (1974)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "James Bond -10- The Spy Who Loved Me (1977)",
+    "badName": "James Bond -10- The Spy Who Loved Me.720 - 1977",
+    "fixName": "James Bond -10- The Spy Who Loved Me (1977)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "James Bond -11- Moonraker (1979)",
+    "badName": "James Bond -11- Moonraker.720 - 1979",
+    "fixName": "James Bond -11- Moonraker (1979)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "James Bond -12-For Your Eyes Only (1981)",
+    "badName": "James Bond -12-For Your Eyes Only.720 - 1981",
+    "fixName": "James Bond -12-For Your Eyes Only (1981)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "James Bond -13- Octopussy (1983)",
+    "badName": "James Bond -13- Octopussy.720 - 1983",
+    "fixName": "James Bond -13- Octopussy (1983)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "James Bond -14- A View to a Kill (1985)",
+    "badName": "James Bond -14- A View to a Kill.720 - 1985",
+    "fixName": "James Bond -14- A View to a Kill (1985)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "James Bond -15- The Living Daylights (1987)",
+    "badName": "James Bond -15- The Living Daylights.720 - 1987",
+    "fixName": "James Bond -15- The Living Daylights (1987)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "James Bond -16- Licence to Kill (1989)",
+    "badName": "James Bond -16- Licence to Kill.720 - 1989",
+    "fixName": "James Bond -16- Licence to Kill (1989)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "James Bond -17- Golden Eye (1995)",
+    "badName": "James Bond -17- Golden Eye,720 - 1995",
+    "fixName": "James Bond -17- Golden Eye (1995)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "James Bond -18- Tomorrow Never Dies (1997)",
+    "badName": "James Bond -18- Tomorrow Never Dies.720 - 1997",
+    "fixName": "James Bond -18- Tomorrow Never Dies (1997)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "James Bond -19- The World Is Not Enough (1999)",
+    "badName": "James Bond -19- The World Is Not Enough.720 - 1999",
+    "fixName": "James Bond -19- The World Is Not Enough (1999)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "James Bond -20- Die Another Day (2002)",
+    "badName": "James Bond -20- Die Another Day.720 - 2002",
+    "fixName": "James Bond -20- Die Another Day (2002)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "James Bond -21- Casino Royale (2006)",
+    "badName": "James Bond -21- Casino Royale.720 - 2006",
+    "fixName": "James Bond -21- Casino Royale (2006)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "James Bond -22- Quantum of Solace (2008)",
+    "badName": "James Bond -22- Quantum of Solace.720 - 2008",
+    "fixName": "James Bond -22- Quantum of Solace (2008)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "Jonah Hex-720 (2010)",
+    "badName": "Jonah Hex-720 - 2010",
+    "fixName": "Jonah Hex-720 (2010)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "The Jerk - 26th Anniv (1979)",
+    "badName": "The Jerk - 26th Anniv - 1979",
+    "fixName": "The Jerk - 26th Anniv (1979)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "The Jewell Of The Nile (1985)",
+    "badName": "The Jewell Of The Nile.720 - 1985",
+    "fixName": "The Jewell Of The Nile (1985)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "JK",
+    "filename": "The Karate Kid II (1986)",
+    "badName": "The Karate Kid II.720 - 1986",
+    "fixName": "The Karate Kid II (1986)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "L",
+    "filename": "Lawless (2012)",
+    "badName": "Lawless.720 - 2012",
+    "fixName": "Lawless (2012)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "L",
+    "filename": "Lethal Weapon 1 (1987)",
+    "badName": "Lethal Weapon 1.720 - 1987",
+    "fixName": "Lethal Weapon 1 (1987)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "L",
+    "filename": "Lethal Weapon 2 (1989)",
+    "badName": "Lethal Weapon 2.720 - 1989",
+    "fixName": "Lethal Weapon 2 (1989)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "L",
+    "filename": "Lethal Weapon 3 (1992)",
+    "badName": "Lethal Weapon 3.720 - 1992",
+    "fixName": "Lethal Weapon 3 (1992)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "L",
+    "filename": "Lethal Weapon 4 (1998)",
+    "badName": "Lethal Weapon 4.720 - 1998",
+    "fixName": "Lethal Weapon 4 (1998)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "L",
+    "filename": "Lock, Stock and Two Smoking Barrels (1998)",
+    "badName": "Lock, Stock and Two Smoking Barrels.720 - 1998",
+    "fixName": "Lock, Stock and Two Smoking Barrels (1998)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "L",
+    "filename": "Lockout (2012)",
+    "badName": "Lockout.720 - 2012",
+    "fixName": "Lockout (2012)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "L",
+    "filename": "The Long Riders (1980)",
+    "badName": "The Long Riders.720 - 1980",
+    "fixName": "The Long Riders (1980)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "M",
+    "filename": "Mad Max 1 (1979)",
+    "badName": "Mad Max 1.720 - 1979",
+    "fixName": "Mad Max 1 (1979)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "M",
+    "filename": "Mad Max 2 - The Road Warrior (1981)",
+    "badName": "Mad Max 2 - The Road Warrior.720 - 1981",
+    "fixName": "Mad Max 2 - The Road Warrior (1981)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "M",
+    "filename": "Maverick (1994)",
+    "badName": "Maverick.720 - 1994",
+    "fixName": "Maverick (1994)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "M",
+    "filename": "Meet 3 - Little Fockers (2010)",
+    "badName": "Meet 3 - Little Fockers.720 - 2010",
+    "fixName": "Meet 3 - Little Fockers (2010)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "M",
+    "filename": "Men in Black I (1997)",
+    "badName": "Men in Black I.720 - 1997",
+    "fixName": "Men in Black I (1997)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "M",
+    "filename": "Men in Black II (2002)",
+    "badName": "Men in Black II.720 - 2002",
+    "fixName": "Men in Black II (2002)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "M",
+    "filename": "Men in Black III (2012)",
+    "badName": "Men in Black III.720 - 2012",
+    "fixName": "Men in Black III (2012)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "M",
+    "filename": "Midnight Run (1988)",
+    "badName": "Midnight Run.720 - 1988",
+    "fixName": "Midnight Run (1988)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "M",
+    "filename": "Minority Report (2002)",
+    "badName": "Minority Report.720 - 2002",
+    "fixName": "Minority Report (2002)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "M",
+    "filename": "Moonstruck (1987)",
+    "badName": "Moonstruck.720 - 1987",
+    "fixName": "Moonstruck (1987)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "M",
+    "filename": "The Magnificent Seven-720 (1960)",
+    "badName": "The Magnificent Seven-720 - 1960",
+    "fixName": "The Magnificent Seven-720 (1960)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "M",
+    "filename": "The Maltese Falcon (1941)",
+    "badName": "The Maltese Falcon.720 - 1941",
+    "fixName": "The Maltese Falcon (1941)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "M",
+    "filename": "The Matrix (1999)",
+    "badName": "The Matrix.720 - 1999",
+    "fixName": "The Matrix (1999)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "M",
+    "filename": "The Mummy 1 (1999)",
+    "badName": "The Mummy 1.1080 - 1999",
+    "fixName": "The Mummy 1 (1999)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "M",
+    "filename": "The Mummy 2 Returns (2001)",
+    "badName": "The Mummy 2 Returns.1080 - 2001",
+    "fixName": "The Mummy 2 Returns (2001)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "M",
+    "filename": "The Mummy 3 Tomb of The Dragon Emperor (2008)",
+    "badName": "The Mummy 3 Tomb of The Dragon Emperor.1080 - 2008",
+    "fixName": "The Mummy 3 Tomb of The Dragon Emperor (2008)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "National Lampoons Christmas Vacation (1989)",
+    "badName": "National Lampoons Christmas Vacation.720 - 1989",
+    "fixName": "National Lampoons Christmas Vacation (1989)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "National Lampoons European Vacation (1985)",
+    "badName": "National Lampoons European Vacation.720 - 1985",
+    "fixName": "National Lampoons European Vacation (1985)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "National Lampoons Vacation (1983)",
+    "badName": "National Lampoons Vacation.720 - 1983",
+    "fixName": "National Lampoons Vacation (1983)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "National Lampoons Vegas Vacation (1997)",
+    "badName": "National Lampoons Vegas Vacation.720 - 1997",
+    "fixName": "National Lampoons Vegas Vacation (1997)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "On The Road (2012)",
+    "badName": "On The Road.720 - 2012",
+    "fixName": "On The Road (2012)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Once Upon a Time in The West (1969)",
+    "badName": "Once Upon a Time in The West.720 - 1969",
+    "fixName": "Once Upon a Time in The West (1969)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Outland (1981)",
+    "badName": "Outland.720 - 1981",
+    "fixName": "Outland (1981)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Patriot Games (1992)",
+    "badName": "Patriot Games - 1992",
+    "fixName": "Patriot Games (1992)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Payback (1999)",
+    "badName": "Payback.720 - 1999",
+    "fixName": "Payback (1999)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Pet Semetary (1989)",
+    "badName": "Pet Semetary.720 - 1989",
+    "fixName": "Pet Semetary (1989)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Pink Floyd THe Wall (1982)",
+    "badName": "Pink Floyd THe Wall.720 - 1982",
+    "fixName": "Pink Floyd THe Wall (1982)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Planes, Trains & Automobiles (1987)",
+    "badName": "Planes, Trains & Automobiles.720 - 1987",
+    "fixName": "Planes, Trains & Automobiles (1987)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Planet Of The Apes -01- The Planet of The Apes (1968)",
+    "badName": "Planet Of The Apes -01- The Planet of The Apes.720 - 1968",
+    "fixName": "Planet Of The Apes -01- The Planet of The Apes (1968)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Planet Of The Apes -02- Beneath The Planet Of The Apes (1968)",
+    "badName": "Planet Of The Apes -02- Beneath The Planet Of The Apes - 1968",
+    "fixName": "Planet Of The Apes -02- Beneath The Planet Of The Apes (1968)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Planet Of The Apes -03- Escape From The Planet Of The Apes (1971)",
+    "badName": "Planet Of The Apes -03- Escape From The Planet Of The Apes - 1971",
+    "fixName": "Planet Of The Apes -03- Escape From The Planet Of The Apes (1971)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Planet Of The Apes -04- Conquest Of The Planet Of The Apes (1972)",
+    "badName": "Planet Of The Apes -04- Conquest Of The Planet Of The Apes - 1972",
+    "fixName": "Planet Of The Apes -04- Conquest Of The Planet Of The Apes (1972)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Planet Of The Apes -05- Battle For The Planet Of The Apes (1973)",
+    "badName": "Planet Of The Apes -05- Battle For The Planet Of The Apes - 1973",
+    "fixName": "Planet Of The Apes -05- Battle For The Planet Of The Apes (1973)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Platoon (1986)",
+    "badName": "Platoon.720 - 1986",
+    "fixName": "Platoon (1986)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Poltergeist-720 (1982)",
+    "badName": "Poltergeist-720 - 1982",
+    "fixName": "Poltergeist-720 (1982)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Porky's (1982)",
+    "badName": "Porky's.720 - 1982",
+    "fixName": "Porky's (1982)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "Practical Magic (1998)",
+    "badName": "Practical Magic.720 - 1998",
+    "fixName": "Practical Magic (1998)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "The Natural (1984)",
+    "badName": "The Natural.720 - 1984",
+    "fixName": "The Natural (1984)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "The Onion Movie (2008)",
+    "badName": "The Onion Movie - 2008",
+    "fixName": "The Onion Movie (2008)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "The Outsiders (1983)",
+    "badName": "The Outsiders.720 - 1983",
+    "fixName": "The Outsiders (1983)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "The Patriot-720 (2000)",
+    "badName": "The Patriot-720 - 2000",
+    "fixName": "The Patriot-720 (2000)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "The Perfect Storm (2000)",
+    "badName": "The Perfect Storm.720 - 2000",
+    "fixName": "The Perfect Storm (2000)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "The Philadelphia Experiment (2012)",
+    "badName": "The Philadelphia Experiment.720 - 2012",
+    "fixName": "The Philadelphia Experiment (2012)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "The Pianist (2002)",
+    "badName": "The Pianist.720 - 2002",
+    "fixName": "The Pianist (2002)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "NOP",
+    "filename": "The Princess Bride (1987)",
+    "badName": "The Princess Bride.720 - 1987",
+    "fixName": "The Princess Bride (1987)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "QR",
+    "filename": "Re-Animator (1985)",
+    "badName": "Re-Animator.720 - 1985",
+    "fixName": "Re-Animator (1985)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "QR",
+    "filename": "Rear Window (1954)",
+    "badName": "Rear Window.720 - 1954",
+    "fixName": "Rear Window (1954)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "QR",
+    "filename": "Red Dawn (1984)",
+    "badName": "Red Dawn.720 - 1984",
+    "fixName": "Red Dawn (1984)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "QR",
+    "filename": "Revolver (2005)",
+    "badName": "Revolver.720 - 2005",
+    "fixName": "Revolver (2005)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "QR",
+    "filename": "Robocop (1988)",
+    "badName": "Robocop.720 - 1988",
+    "fixName": "Robocop (1988)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "QR",
+    "filename": "Rocknrolla (2009)",
+    "badName": "Rocknrolla.720 - 2009",
+    "fixName": "Rocknrolla (2009)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "QR",
+    "filename": "Rocky I (1976)",
+    "badName": "Rocky I - 1976",
+    "fixName": "Rocky I (1976)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "QR",
+    "filename": "Rocky II (1979)",
+    "badName": "Rocky II - 1979",
+    "fixName": "Rocky II (1979)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "QR",
+    "filename": "Rocky III (1983)",
+    "badName": "Rocky III - 1983",
+    "fixName": "Rocky III (1983)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "QR",
+    "filename": "Rocky IV (1985)",
+    "badName": "Rocky IV - 1985",
+    "fixName": "Rocky IV (1985)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "QR",
+    "filename": "Romancing The Stone (1984)",
+    "badName": "Romancing The Stone.720 - 1984",
+    "fixName": "Romancing The Stone (1984)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "QR",
+    "filename": "Roxanne (1987)",
+    "badName": "Roxanne.720 - 1987",
+    "fixName": "Roxanne (1987)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "QR",
+    "filename": "The Red Violin-720 (1988)",
+    "badName": "The Red Violin-720 - 1988",
+    "fixName": "The Red Violin-720 (1988)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "QR",
+    "filename": "The Running Man (1987)",
+    "badName": "The Running Man.720 - 1987",
+    "fixName": "The Running Man (1987)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "S",
+    "filename": "Safety Not Guaranteed (2012)",
+    "badName": "Safety Not Guaranteed.720 - 2012",
+    "fixName": "Safety Not Guaranteed (2012)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "S",
+    "filename": "Savages (2012)",
+    "badName": "Savages.720 - 2012",
+    "fixName": "Savages (2012)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "S",
+    "filename": "Scanners (1981)",
+    "badName": "Scanners.720 - 1981",
+    "fixName": "Scanners (1981)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "S",
+    "filename": "Scarface (1983)",
+    "badName": "Scarface.720 - 1983",
+    "fixName": "Scarface (1983)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "S",
+    "filename": "Scrooged (1988)",
+    "badName": "Scrooged.720 - 1988",
+    "fixName": "Scrooged (1988)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "S",
+    "filename": "Seabiscuit (2003)",
+    "badName": "Seabiscuit.720 - 2003",
+    "fixName": "Seabiscuit (2003)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "S",
+    "filename": "Secretariat (2010)",
+    "badName": "Secretariat.720 - 2010",
+    "fixName": "Secretariat (2010)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "S",
+    "filename": "Sherlock Holmes (2009)",
+    "badName": "Sherlock Holmes.720 - 2009",
+    "fixName": "Sherlock Holmes (2009)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "S",
+    "filename": "Sherlock Holmes - A Game of Shadows (2011)",
+    "badName": "Sherlock Holmes - A Game of Shadows.1080 - 2011",
+    "fixName": "Sherlock Holmes - A Game of Shadows (2011)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "S",
+    "filename": "Sixteen Candles (1984)",
+    "badName": "Sixteen Candles.720 - 1984",
+    "fixName": "Sixteen Candles (1984)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "S",
+    "filename": "Snatch (2001)",
+    "badName": "Snatch.720 - 2001",
+    "fixName": "Snatch (2001)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "S",
+    "filename": "Source Code (2011)",
+    "badName": "Source Code.720 - 2011",
+    "fixName": "Source Code (2011)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "S",
+    "filename": "Spaceballs (1987)",
+    "badName": "Spaceballs.720 - 1987",
+    "fixName": "Spaceballs (1987)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "S",
+    "filename": "Splash (1984)",
+    "badName": "Splash.720 - 1984",
+    "fixName": "Splash (1984)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "S",
+    "filename": "Star Trek-720 (2009)",
+    "badName": "Star Trek-720 - 2009",
+    "fixName": "Star Trek-720 (2009)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "S",
+    "filename": "Stir Crazy (1980)",
+    "badName": "Stir Crazy.720 - 1980",
+    "fixName": "Stir Crazy (1980)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "S",
+    "filename": "The Silence of The Lambs (1991)",
+    "badName": "The Silence of The Lambs.1080 - 1991",
+    "fixName": "The Silence of The Lambs (1991)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "T",
+    "filename": "Ted (2012)",
+    "badName": "Ted.720 - 2012",
+    "fixName": "Ted (2012)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "T",
+    "filename": "Tequila Sunrise (1988)",
+    "badName": "Tequila Sunrise.720 - 1988",
+    "fixName": "Tequila Sunrise (1988)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "T",
+    "filename": "The Terminator 1 (1984)",
+    "badName": "The Terminator 1.1080 - 1984",
+    "fixName": "The Terminator 1 (1984)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "T",
+    "filename": "The Terminator 3 - Rise Of The Machines (2003)",
+    "badName": "The Terminator 3 - Rise Of The Machines.1080 - 2003",
+    "fixName": "The Terminator 3 - Rise Of The Machines (2003)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "T",
+    "filename": "The Terminator 4 - Salvation (2009)",
+    "badName": "The Terminator 4 - Salvation.1080 - 2009",
+    "fixName": "The Terminator 4 - Salvation (2009)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "T",
+    "filename": "The Thing (2011)",
+    "badName": "The Thing,720 - 2011",
+    "fixName": "The Thing (2011)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "T",
+    "filename": "The Thomas Crown Affair (1968)",
+    "badName": "The Thomas Crown Affair.720 - 1968",
+    "fixName": "The Thomas Crown Affair (1968)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "T",
+    "filename": "The Thomas Crown Affarir (1999)",
+    "badName": "The Thomas Crown Affarir.720 - 1999",
+    "fixName": "The Thomas Crown Affarir (1999)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "T",
+    "filename": "The Three Stooges (2012)",
+    "badName": "The Three Stooges.720 - 2012",
+    "fixName": "The Three Stooges (2012)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "T",
+    "filename": "Three Kings (1999)",
+    "badName": "Three Kings.720 - 1999",
+    "fixName": "Three Kings (1999)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "T",
+    "filename": "Time Bandits (1981)",
+    "badName": "Time Bandits.720 - 1981",
+    "fixName": "Time Bandits (1981)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "T",
+    "filename": "To Live and Die in L.A. 720 (1985)",
+    "badName": "To Live and Die in L.A. 720 - 1985",
+    "fixName": "To Live and Die in L.A. 720 (1985)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "T",
+    "filename": "Top Gun (1986)",
+    "badName": "Top Gun.720 - 1986",
+    "fixName": "Top Gun (1986)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "T",
+    "filename": "Total Recall (1990)",
+    "badName": "Total Recall.720 - 1990",
+    "fixName": "Total Recall (1990)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "T",
+    "filename": "Total Recall (2012)",
+    "badName": "Total Recall.720 - 2012",
+    "fixName": "Total Recall (2012)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "T",
+    "filename": "Trading Places (1983)",
+    "badName": "Trading Places.720 - 1983",
+    "fixName": "Trading Places (1983)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "T",
+    "filename": "Tron (1982)",
+    "badName": "Tron.720 - 1982",
+    "fixName": "Tron (1982)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "T",
+    "filename": "True Grit (1969)",
+    "badName": "True Grit.720 - 1969",
+    "fixName": "True Grit (1969)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "T",
+    "filename": "True Romance (1993)",
+    "badName": "True Romance.720 - 1993",
+    "fixName": "True Romance (1993)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "XYZ",
+    "filename": "Yellow Submarine (1968)",
+    "badName": "Yellow Submarine.720 - 1968",
+    "fixName": "Yellow Submarine (1968)",
+    "extension": "mp4",
+    "reason": "unst"
+  },
+  {
+    "dir": "XYZ",
+    "filename": "Young Guns (1988)",
+    "badName": "Young Guns.720 - 1988",
+    "fixName": "Young Guns (1988)",
+    "extension": "mp4",
+    "reason": "unst"
+  }
+]

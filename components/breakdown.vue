@@ -6,6 +6,7 @@
       <b-card no-body>
         <b-card-header class="p-1" role="tab">
           <b-btn v-b-toggle="bdListId">List</b-btn>
+          <b-btn v-b-toggle="bdCardsId">Cards</b-btn>
         </b-card-header>
 
         <b-collapse :id="bdListId" :accordion="accordionId" visible>
@@ -15,13 +16,6 @@
             </ol>
           </b-card-body>
         </b-collapse>
-      </b-card>
-
-      <b-card no-body>
-        <b-card-header class="p-1" role="tab">
-          <b-btn v-b-toggle="bdCardsId">Cards</b-btn>
-        </b-card-header>
-
         <b-collapse :id="bdCardsId" :accordion="accordionId">
           <m-movie
             v-for="(movie, index) in movies"

@@ -8,6 +8,8 @@ let priorDir = 'movies'
 const ignored = [
   'idx',
   'jpg',
+  'json',
+  'log',
   'srt',
   'sub',
   'txt'
